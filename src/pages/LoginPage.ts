@@ -9,7 +9,7 @@ export class LoginPage {
     constructor(private page: Page) {}
 
     async navigateToLoginPage() {
-        await this.page.goto('https://opensource-demo.orangehrmlive.com/web/index.php/auth/login');
+        await this.page.goto('auth/login');
         console.log('Navigated to login page');
     }
 
