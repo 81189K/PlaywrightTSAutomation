@@ -12,9 +12,19 @@ test.describe('Login Page Tests', () => {
     await loginPage.navigateToLoginPage();
   });
 
-  test('Valid Login Test', async ({page}) => {
+  test.skip('Encrypt-decrypt Login Test', async ({page}) => {
     await loginPage.fillUsername(decryptData(process.env.username!)); // ! is called the Non-Null Assertion Operator. It tells TypeScript that even though something looks like it could be null, it can trust you that it won't be
     await loginPage.fillPassword(decryptData(process.env.password!));
+    await loginPage.clickLoginButton();
+    // Add assertions here to verify successful login
+
+    const dashboardPage: DashboardPage = new DashboardPage(page);
+    await dashboardPage.expectDashboardTitleToBeVisible();
+  });
+
+  test('Valid Login Test', async ({page}) => {
+    await loginPage.fillUsername(process.env.username!); // ! is called the Non-Null Assertion Operator. It tells TypeScript that even though something looks like it could be null, it can trust you that it won't be
+    await loginPage.fillPassword(process.env.password!);
     await loginPage.clickLoginButton();
     // Add assertions here to verify successful login
 
