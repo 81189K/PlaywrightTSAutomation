@@ -1,0 +1,16 @@
+[
+    {
+        "firstname": "Glenn",
+        "lastname": "Joseph",
+        "vacancy": "Senior QA Lead",
+        "email": "glenn.joseph@example.com",
+        "contactNo": "1234567890"
+    },
+    {
+        "firstname": "Glenn",
+        "lastname": "Maddy",
+        "vacancy": "Software Engineer",
+        "email": "glenn.maddy@example.com",
+        "contactNo": "9123456780"
+    }
+]

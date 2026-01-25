@@ -17,3 +17,501 @@
 2026-01-25T14:21:05+05:30 [info]: Filled password: ********
 2026-01-25T14:21:05+05:30 [info]: Clicked login button
 2026-01-25T14:21:08+05:30 [info]: Dashboard title is visible and correct
+2026-01-25T16:31:10+05:30 [info]: Navigated to login page
+2026-01-25T16:31:11+05:30 [info]: Filled username: Admin
+2026-01-25T16:31:11+05:30 [info]: Filled password: ********
+2026-01-25T16:31:13+05:30 [info]: Clicked login button
+2026-01-25T16:31:13+05:30 [info]: Performed quick login
+2026-01-25T16:31:14+05:30 [info]: Dashboard title is visible and correct
+2026-01-25T16:31:14+05:30 [info]: Recruitment Tab is visible
+2026-01-25T16:31:15+05:30 [info]: Recruitment Tab is clicked
+2026-01-25T16:31:17+05:30 [info]: Add Button is clicked
+2026-01-25T16:31:18+05:30 [info]: First Name filled: John
+2026-01-25T16:31:18+05:30 [info]: Last Name filled: Doe
+2026-01-25T16:31:19+05:30 [info]: Vacancy dropdown clicked
+2026-01-25T16:31:19+05:30 [info]: Vacancy selected: Software Engineer
+2026-01-25T16:40:54+05:30 [info]: Navigated to login page
+2026-01-25T16:40:55+05:30 [info]: Filled username: Admin
+2026-01-25T16:40:55+05:30 [info]: Filled password: ********
+2026-01-25T16:40:55+05:30 [info]: Clicked login button
+2026-01-25T16:40:55+05:30 [info]: Performed quick login
+2026-01-25T16:40:57+05:30 [info]: Dashboard title is visible and correct
+2026-01-25T16:40:57+05:30 [info]: Recruitment Tab is visible
+2026-01-25T16:40:59+05:30 [info]: Recruitment Tab is clicked
+2026-01-25T16:41:02+05:30 [info]: Add Button is clicked
+2026-01-25T16:41:02+05:30 [info]: First Name filled: John
+2026-01-25T16:41:02+05:30 [info]: Last Name filled: Doe
+2026-01-25T16:41:02+05:30 [info]: Vacancy dropdown clicked
+2026-01-25T16:41:03+05:30 [info]: Vacancy selected: Software Engineer
+2026-01-25T16:41:03+05:30 [info]: Email filled: john.doe@example.com
+2026-01-25T16:41:03+05:30 [info]: Save Button is clicked
+2026-01-25T16:41:05+05:30 [info]: Recruitment Link is clicked
+2026-01-25T16:43:18+05:30 [info]: Navigated to login page
+2026-01-25T16:43:19+05:30 [info]: Filled username: Admin
+2026-01-25T16:43:19+05:30 [info]: Filled password: ********
+2026-01-25T16:43:19+05:30 [info]: Clicked login button
+2026-01-25T16:43:19+05:30 [info]: Performed quick login
+2026-01-25T16:43:22+05:30 [info]: Dashboard title is visible and correct
+2026-01-25T16:43:22+05:30 [info]: Recruitment Tab is visible
+2026-01-25T16:43:23+05:30 [info]: Recruitment Tab is clicked
+2026-01-25T16:43:26+05:30 [info]: Recruitment Link is clicked
+2026-01-25T16:43:28+05:30 [info]: Candidate Name filled: Doe
+2026-01-25T16:43:29+05:30 [info]: Search Button is clicked
+2026-01-25T16:43:29+05:30 [info]: Search Result is visible
+2026-01-25T16:45:21+05:30 [info]: Navigated to login page
+2026-01-25T16:45:22+05:30 [info]: Filled username: Admin
+2026-01-25T16:45:22+05:30 [info]: Filled password: ********
+2026-01-25T16:45:24+05:30 [info]: Clicked login button
+2026-01-25T16:45:24+05:30 [info]: Performed quick login
+2026-01-25T16:45:25+05:30 [info]: Dashboard title is visible and correct
+2026-01-25T16:45:25+05:30 [info]: Recruitment Tab is visible
+2026-01-25T16:45:27+05:30 [info]: Recruitment Tab is clicked
+2026-01-25T16:45:29+05:30 [info]: Add Button is clicked
+2026-01-25T16:45:30+05:30 [info]: First Name filled: Beth
+2026-01-25T16:45:30+05:30 [info]: Last Name filled: Lingam
+2026-01-25T16:45:30+05:30 [info]: Vacancy dropdown clicked
+2026-01-25T16:45:31+05:30 [info]: Vacancy selected: Software Engineer
+2026-01-25T16:45:31+05:30 [info]: Email filled: beth.l@example.com
+2026-01-25T16:45:31+05:30 [info]: Save Button is clicked
+2026-01-25T16:45:32+05:30 [info]: Recruitment Link is clicked
+2026-01-25T16:45:35+05:30 [info]: Candidate Name filled: Lingam
+2026-01-25T16:45:35+05:30 [info]: Search Button is clicked
+2026-01-25T16:45:35+05:30 [info]: Search Result is visible
+2026-01-25T16:47:17+05:30 [info]: Navigated to login page
+2026-01-25T16:47:18+05:30 [info]: Filled username: Admin
+2026-01-25T16:47:18+05:30 [info]: Filled password: ********
+2026-01-25T16:47:20+05:30 [info]: Clicked login button
+2026-01-25T16:47:20+05:30 [info]: Performed quick login
+2026-01-25T16:47:21+05:30 [info]: Dashboard title is visible and correct
+2026-01-25T16:47:21+05:30 [info]: Recruitment Tab is visible
+2026-01-25T16:47:22+05:30 [info]: Recruitment Tab is clicked
+2026-01-25T16:47:25+05:30 [info]: Recruitment Link is clicked
+2026-01-25T16:47:28+05:30 [info]: Candidate Name filled: Lingam
+2026-01-25T16:47:28+05:30 [info]: Search Button is clicked
+2026-01-25T16:47:28+05:30 [info]: Search Result is visible
+2026-01-25T17:01:56+05:30 [info]: Navigated to login page
+2026-01-25T17:01:56+05:30 [info]: Navigated to login page
+2026-01-25T17:01:57+05:30 [info]: Filled username: Admin
+2026-01-25T17:01:57+05:30 [info]: Filled username: Admin
+2026-01-25T17:01:57+05:30 [info]: Filled password: ********
+2026-01-25T17:01:57+05:30 [info]: Filled password: ********
+2026-01-25T17:01:57+05:30 [info]: Clicked login button
+2026-01-25T17:01:57+05:30 [info]: Performed quick login
+2026-01-25T17:01:57+05:30 [info]: Clicked login button
+2026-01-25T17:01:57+05:30 [info]: Performed quick login
+2026-01-25T17:01:59+05:30 [info]: Dashboard title is visible and correct
+2026-01-25T17:01:59+05:30 [info]: Recruitment Tab is visible
+2026-01-25T17:02:00+05:30 [info]: Dashboard title is visible and correct
+2026-01-25T17:02:00+05:30 [info]: Recruitment Tab is visible
+2026-01-25T17:02:02+05:30 [info]: Recruitment Tab is clicked
+2026-01-25T17:02:02+05:30 [info]: Recruitment Tab is clicked
+2026-01-25T17:02:05+05:30 [info]: Add Button is clicked
+2026-01-25T17:02:05+05:30 [info]: Add Button is clicked
+2026-01-25T17:02:05+05:30 [info]: First Name filled: Glenn
+2026-01-25T17:02:05+05:30 [info]: Last Name filled: Philips
+2026-01-25T17:02:06+05:30 [info]: Vacancy dropdown clicked
+2026-01-25T17:02:06+05:30 [info]: First Name filled: Glenn
+2026-01-25T17:02:06+05:30 [info]: Last Name filled: Maxwell
+2026-01-25T17:02:06+05:30 [info]: Vacancy dropdown clicked
+2026-01-25T17:02:06+05:30 [info]: Vacancy selected: Software Engineer
+2026-01-25T17:02:06+05:30 [info]: Email filled: glenn.philips@example.com
+2026-01-25T17:02:06+05:30 [info]: Contact Number filled: 9123456789
+2026-01-25T17:02:06+05:30 [info]: Save Button is clicked
+2026-01-25T17:02:07+05:30 [info]: Vacancy selected: Senior QA Lead
+2026-01-25T17:02:07+05:30 [info]: Email filled: glenn.maxwell@example.com
+2026-01-25T17:02:07+05:30 [info]: Contact Number filled: 1234567890
+2026-01-25T17:02:07+05:30 [info]: Save Button is clicked
+2026-01-25T17:02:08+05:30 [info]: Recruitment Link is clicked
+2026-01-25T17:02:08+05:30 [info]: Recruitment Link is clicked
+2026-01-25T17:02:10+05:30 [info]: Candidate Name filled: Lingam
+2026-01-25T17:02:10+05:30 [info]: Search Button is clicked
+2026-01-25T17:02:11+05:30 [info]: Candidate Name filled: Lingam
+2026-01-25T17:02:11+05:30 [info]: Search Button is clicked
+2026-01-25T17:02:11+05:30 [info]: Search Result is visible
+2026-01-25T17:02:12+05:30 [info]: Search Result is visible
+2026-01-25T17:05:07+05:30 [info]: Navigated to login page
+2026-01-25T17:05:08+05:30 [info]: Navigated to login page
+2026-01-25T17:05:08+05:30 [info]: Filled username: Admin
+2026-01-25T17:05:08+05:30 [info]: Filled password: ********
+2026-01-25T17:05:08+05:30 [info]: Filled username: Admin
+2026-01-25T17:05:08+05:30 [info]: Filled password: ********
+2026-01-25T17:05:09+05:30 [info]: Clicked login button
+2026-01-25T17:05:09+05:30 [info]: Performed quick login
+2026-01-25T17:05:09+05:30 [info]: Clicked login button
+2026-01-25T17:05:09+05:30 [info]: Performed quick login
+2026-01-25T17:05:11+05:30 [info]: Dashboard title is visible and correct
+2026-01-25T17:05:11+05:30 [info]: Recruitment Tab is visible
+2026-01-25T17:05:11+05:30 [info]: Dashboard title is visible and correct
+2026-01-25T17:05:11+05:30 [info]: Recruitment Tab is visible
+2026-01-25T17:05:13+05:30 [info]: Recruitment Tab is clicked
+2026-01-25T17:05:13+05:30 [info]: Recruitment Tab is clicked
+2026-01-25T17:05:16+05:30 [info]: Recruitment Link is clicked
+2026-01-25T17:05:17+05:30 [info]: Recruitment Link is clicked
+2026-01-25T17:05:19+05:30 [info]: Candidate Name filled: Philips
+2026-01-25T17:05:19+05:30 [info]: Search Button is clicked
+2026-01-25T17:05:20+05:30 [info]: Candidate Name filled: Maxwell
+2026-01-25T17:05:20+05:30 [info]: Search Button is clicked
+2026-01-25T17:05:20+05:30 [info]: Search Result is visible
+2026-01-25T17:05:21+05:30 [info]: Search Result is visible
+2026-01-25T17:54:34+05:30 [info]: Navigated to login page
+2026-01-25T17:54:34+05:30 [info]: Navigated to login page
+2026-01-25T17:54:35+05:30 [info]: Filled username: Admin
+2026-01-25T17:54:35+05:30 [info]: Filled password: ********
+2026-01-25T17:54:35+05:30 [info]: Filled username: Admin
+2026-01-25T17:54:35+05:30 [info]: Filled password: ********
+2026-01-25T17:54:35+05:30 [info]: Clicked login button
+2026-01-25T17:54:35+05:30 [info]: Performed quick login
+2026-01-25T17:54:36+05:30 [info]: Clicked login button
+2026-01-25T17:54:36+05:30 [info]: Performed quick login
+2026-01-25T17:54:38+05:30 [info]: Dashboard title is visible and correct
+2026-01-25T17:54:38+05:30 [info]: Recruitment Tab is visible
+2026-01-25T17:54:38+05:30 [info]: Dashboard title is visible and correct
+2026-01-25T17:54:38+05:30 [info]: Recruitment Tab is visible
+2026-01-25T17:54:40+05:30 [info]: Recruitment Tab is clicked
+2026-01-25T17:54:40+05:30 [info]: Recruitment Tab is clicked
+2026-01-25T17:54:43+05:30 [info]: Recruitment Link is clicked
+2026-01-25T17:54:43+05:30 [info]: Recruitment Link is clicked
+2026-01-25T17:58:52+05:30 [info]: Navigated to login page
+2026-01-25T17:58:52+05:30 [info]: Navigated to login page
+2026-01-25T17:58:53+05:30 [info]: Navigated to login page
+2026-01-25T17:58:53+05:30 [info]: Navigated to login page
+2026-01-25T17:58:53+05:30 [info]: Filled username: Admin
+2026-01-25T17:58:53+05:30 [info]: Filled password: ********
+2026-01-25T17:58:54+05:30 [info]: Clicked login button
+2026-01-25T17:58:54+05:30 [info]: Performed quick login
+2026-01-25T17:58:54+05:30 [info]: Filled username: Admin
+2026-01-25T17:58:54+05:30 [info]: Filled password: ********
+2026-01-25T17:58:55+05:30 [info]: Clicked login button
+2026-01-25T17:58:55+05:30 [info]: Performed quick login
+2026-01-25T17:58:55+05:30 [info]: Filled username: Admin
+2026-01-25T17:58:55+05:30 [info]: Filled password: ********
+2026-01-25T17:58:55+05:30 [info]: Clicked login button
+2026-01-25T17:58:55+05:30 [info]: Performed quick login
+2026-01-25T17:58:55+05:30 [info]: Filled username: Admin
+2026-01-25T17:58:55+05:30 [info]: Filled password: ********
+2026-01-25T17:58:56+05:30 [info]: Clicked login button
+2026-01-25T17:58:56+05:30 [info]: Performed quick login
+2026-01-25T17:59:05+05:30 [info]: Dashboard title is visible and correct
+2026-01-25T17:59:05+05:30 [info]: Recruitment Tab is visible
+2026-01-25T17:59:07+05:30 [info]: Dashboard title is visible and correct
+2026-01-25T17:59:07+05:30 [info]: Recruitment Tab is visible
+2026-01-25T17:59:07+05:30 [info]: Dashboard title is visible and correct
+2026-01-25T17:59:07+05:30 [info]: Recruitment Tab is visible
+2026-01-25T17:59:10+05:30 [info]: Dashboard title is visible and correct
+2026-01-25T17:59:10+05:30 [info]: Recruitment Tab is visible
+2026-01-25T17:59:18+05:30 [info]: Recruitment Tab is clicked
+2026-01-25T17:59:20+05:30 [info]: Recruitment Tab is clicked
+2026-01-25T17:59:22+05:30 [info]: Recruitment Tab is clicked
+2026-01-25T17:59:24+05:30 [info]: Recruitment Tab is clicked
+2026-01-25T18:00:51+05:30 [info]: Navigated to login page
+2026-01-25T18:00:52+05:30 [info]: Navigated to login page
+2026-01-25T18:00:52+05:30 [info]: Filled username: Admin
+2026-01-25T18:00:52+05:30 [info]: Filled password: ********
+2026-01-25T18:00:52+05:30 [info]: Filled username: Admin
+2026-01-25T18:00:52+05:30 [info]: Filled password: ********
+2026-01-25T18:00:53+05:30 [info]: Clicked login button
+2026-01-25T18:00:53+05:30 [info]: Performed quick login
+2026-01-25T18:00:53+05:30 [info]: Clicked login button
+2026-01-25T18:00:53+05:30 [info]: Performed quick login
+2026-01-25T18:00:55+05:30 [info]: Dashboard title is visible and correct
+2026-01-25T18:00:55+05:30 [info]: Recruitment Tab is visible
+2026-01-25T18:00:55+05:30 [info]: Dashboard title is visible and correct
+2026-01-25T18:00:55+05:30 [info]: Recruitment Tab is visible
+2026-01-25T18:00:57+05:30 [info]: Recruitment Tab is clicked
+2026-01-25T18:00:57+05:30 [info]: Recruitment Tab is clicked
+2026-01-25T18:01:00+05:30 [info]: Add Button is clicked
+2026-01-25T18:01:00+05:30 [info]: Add Button is clicked
+2026-01-25T18:01:01+05:30 [info]: First Name filled: John
+2026-01-25T18:01:01+05:30 [info]: Last Name filled: Black
+2026-01-25T18:01:01+05:30 [info]: Vacancy dropdown clicked
+2026-01-25T18:01:01+05:30 [info]: First Name filled: Jane
+2026-01-25T18:01:01+05:30 [info]: Last Name filled: White
+2026-01-25T18:01:01+05:30 [info]: Vacancy dropdown clicked
+2026-01-25T18:01:02+05:30 [info]: Vacancy selected: Junior Account Assistant
+2026-01-25T18:01:02+05:30 [info]: Email filled: john.b@demo.com
+2026-01-25T18:01:02+05:30 [info]: Contact Number filled: 1234512345
+2026-01-25T18:01:02+05:30 [info]: Save Button is clicked
+2026-01-25T18:01:02+05:30 [info]: Vacancy selected: Payroll Administrator
+2026-01-25T18:01:02+05:30 [info]: Email filled: jane.w@demo.com
+2026-01-25T18:01:02+05:30 [info]: Save Button is clicked
+2026-01-25T18:01:03+05:30 [info]: Recruitment Link is clicked
+2026-01-25T18:01:04+05:30 [info]: Recruitment Link is clicked
+2026-01-25T18:01:06+05:30 [info]: Candidate Name filled: Black
+2026-01-25T18:01:06+05:30 [info]: Search Button is clicked
+2026-01-25T18:01:07+05:30 [info]: Search Result is visible
+2026-01-25T18:01:07+05:30 [info]: Candidate Name filled: White
+2026-01-25T18:01:07+05:30 [info]: Search Button is clicked
+2026-01-25T18:01:08+05:30 [info]: Search Result is visible
+2026-01-25T18:06:54+05:30 [info]: Navigated to login page
+2026-01-25T18:06:55+05:30 [info]: Filled username: Admin
+2026-01-25T18:06:55+05:30 [info]: Filled password: ********
+2026-01-25T18:06:56+05:30 [info]: Clicked login button
+2026-01-25T18:06:56+05:30 [info]: Performed quick login
+2026-01-25T18:06:58+05:30 [info]: Dashboard title is visible and correct
+2026-01-25T18:06:58+05:30 [info]: Recruitment Tab is visible
+2026-01-25T18:07:00+05:30 [info]: Recruitment Tab is clicked
+2026-01-25T18:07:05+05:30 [info]: Recruitment Link is clicked
+2026-01-25T18:07:09+05:30 [info]: Candidate Name filled: Black
+2026-01-25T18:07:09+05:30 [info]: Search Button is clicked
+2026-01-25T18:07:10+05:30 [info]: Search Result is visible
+2026-01-25T18:07:15+05:30 [info]: Navigated to login page
+2026-01-25T18:07:16+05:30 [info]: Filled username: Admin
+2026-01-25T18:07:16+05:30 [info]: Filled password: ********
+2026-01-25T18:07:18+05:30 [info]: Clicked login button
+2026-01-25T18:07:18+05:30 [info]: Performed quick login
+2026-01-25T18:07:19+05:30 [info]: Dashboard title is visible and correct
+2026-01-25T18:07:19+05:30 [info]: Recruitment Tab is visible
+2026-01-25T18:07:21+05:30 [info]: Recruitment Tab is clicked
+2026-01-25T18:07:24+05:30 [info]: Recruitment Link is clicked
+2026-01-25T18:07:27+05:30 [info]: Candidate Name filled: White
+2026-01-25T18:07:27+05:30 [info]: Search Button is clicked
+2026-01-25T18:07:28+05:30 [info]: Search Result is visible
+2026-01-25T18:07:34+05:30 [info]: Navigated to login page
+2026-01-25T18:07:34+05:30 [info]: Filled username: Admin
+2026-01-25T18:07:34+05:30 [info]: Filled password: ********
+2026-01-25T18:07:34+05:30 [info]: Clicked login button
+2026-01-25T18:07:34+05:30 [info]: Performed quick login
+2026-01-25T18:07:37+05:30 [info]: Dashboard title is visible and correct
+2026-01-25T18:07:37+05:30 [info]: Recruitment Tab is visible
+2026-01-25T18:07:41+05:30 [info]: Recruitment Tab is clicked
+2026-01-25T18:07:49+05:30 [info]: Recruitment Link is clicked
+2026-01-25T18:07:53+05:30 [info]: Candidate Name filled: Black
+2026-01-25T18:07:53+05:30 [info]: Search Button is clicked
+2026-01-25T18:07:54+05:30 [info]: Search Result is visible
+2026-01-25T18:07:58+05:30 [info]: Navigated to login page
+2026-01-25T18:07:59+05:30 [info]: Filled username: Admin
+2026-01-25T18:07:59+05:30 [info]: Filled password: ********
+2026-01-25T18:08:01+05:30 [info]: Clicked login button
+2026-01-25T18:08:01+05:30 [info]: Performed quick login
+2026-01-25T18:08:02+05:30 [info]: Dashboard title is visible and correct
+2026-01-25T18:08:02+05:30 [info]: Recruitment Tab is visible
+2026-01-25T18:08:04+05:30 [info]: Recruitment Tab is clicked
+2026-01-25T18:08:06+05:30 [info]: Recruitment Link is clicked
+2026-01-25T18:08:09+05:30 [info]: Candidate Name filled: White
+2026-01-25T18:08:09+05:30 [info]: Search Button is clicked
+2026-01-25T18:08:10+05:30 [info]: Search Result is visible
+2026-01-25T18:20:06+05:30 [info]: Navigated to login page
+2026-01-25T18:20:07+05:30 [info]: Filled username: Admin
+2026-01-25T18:20:07+05:30 [info]: Filled password: ********
+2026-01-25T18:20:09+05:30 [info]: Clicked login button
+2026-01-25T18:20:09+05:30 [info]: Performed quick login
+2026-01-25T18:20:10+05:30 [info]: Dashboard title is visible and correct
+2026-01-25T18:20:11+05:30 [info]: Recruitment Tab is visible
+2026-01-25T18:20:12+05:30 [info]: Recruitment Tab is clicked
+2026-01-25T18:20:14+05:30 [info]: Recruitment Link is clicked
+2026-01-25T18:20:17+05:30 [info]: Candidate Name filled: Black
+2026-01-25T18:20:17+05:30 [info]: Search Button is clicked
+2026-01-25T18:20:18+05:30 [info]: Search Result is visible
+2026-01-25T18:20:18+05:30 [info]: Recruitment Tab is visible
+2026-01-25T18:20:20+05:30 [info]: Recruitment Tab is clicked
+2026-01-25T18:20:23+05:30 [info]: Recruitment Link is clicked
+2026-01-25T18:20:25+05:30 [info]: Candidate Name filled: White
+2026-01-25T18:20:25+05:30 [info]: Search Button is clicked
+2026-01-25T18:20:26+05:30 [info]: Search Result is visible
+2026-01-25T18:20:27+05:30 [info]: Recruitment Tab is visible
+2026-01-25T18:20:28+05:30 [info]: Recruitment Tab is clicked
+2026-01-25T18:20:30+05:30 [info]: Recruitment Link is clicked
+2026-01-25T18:52:04+05:30 [info]: Navigated to login page
+2026-01-25T18:52:05+05:30 [info]: Filled username: Admin
+2026-01-25T18:52:05+05:30 [info]: Filled password: ********
+2026-01-25T18:52:05+05:30 [info]: Clicked login button
+2026-01-25T18:52:05+05:30 [info]: Performed quick login
+2026-01-25T18:52:08+05:30 [info]: Dashboard title is visible and correct
+2026-01-25T18:52:09+05:30 [info]: Recruitment Tab is visible
+2026-01-25T18:52:12+05:30 [info]: Recruitment Tab is clicked
+2026-01-25T18:52:15+05:30 [info]: Recruitment Link is clicked
+2026-01-25T18:59:09+05:30 [info]: Navigated to login page
+2026-01-25T18:59:10+05:30 [info]: Filled username: Admin
+2026-01-25T18:59:10+05:30 [info]: Filled password: ********
+2026-01-25T18:59:11+05:30 [info]: Clicked login button
+2026-01-25T18:59:11+05:30 [info]: Performed quick login
+2026-01-25T18:59:17+05:30 [info]: Dashboard title is visible and correct
+2026-01-25T18:59:18+05:30 [info]: Recruitment Tab is visible
+2026-01-25T18:59:21+05:30 [info]: Recruitment Tab is clicked
+2026-01-25T18:59:28+05:30 [info]: Recruitment Link is clicked
+2026-01-25T19:01:11+05:30 [info]: Navigated to login page
+2026-01-25T19:01:12+05:30 [info]: Filled username: Admin
+2026-01-25T19:01:12+05:30 [info]: Filled password: ********
+2026-01-25T19:01:13+05:30 [info]: Clicked login button
+2026-01-25T19:01:13+05:30 [info]: Performed quick login
+2026-01-25T19:01:15+05:30 [info]: Dashboard title is visible and correct
+2026-01-25T19:01:16+05:30 [info]: Recruitment Tab is visible
+2026-01-25T19:01:18+05:30 [info]: Recruitment Tab is clicked
+2026-01-25T19:01:22+05:30 [info]: Recruitment Link is clicked
+2026-01-25T19:03:47+05:30 [info]: Navigated to login page
+2026-01-25T19:03:48+05:30 [info]: Filled username: Admin
+2026-01-25T19:03:48+05:30 [info]: Filled password: ********
+2026-01-25T19:03:49+05:30 [info]: Clicked login button
+2026-01-25T19:03:49+05:30 [info]: Performed quick login
+2026-01-25T19:03:51+05:30 [info]: Dashboard title is visible and correct
+2026-01-25T19:03:52+05:30 [info]: Recruitment Tab is visible
+2026-01-25T19:03:53+05:30 [info]: Recruitment Tab is clicked
+2026-01-25T19:03:55+05:30 [info]: Add Button is clicked
+2026-01-25T19:03:56+05:30 [info]: First Name filled: Glenn
+2026-01-25T19:03:56+05:30 [info]: Last Name filled: Joseph
+2026-01-25T19:03:56+05:30 [info]: Vacancy dropdown clicked
+2026-01-25T19:03:57+05:30 [info]: Vacancy selected: Senior QA Lead
+2026-01-25T19:03:57+05:30 [info]: Email filled: glenn.joseph@example.com
+2026-01-25T19:03:57+05:30 [info]: Contact Number filled: 1234567890
+2026-01-25T19:03:57+05:30 [info]: Save Button is clicked
+2026-01-25T19:03:58+05:30 [info]: Recruitment Link is clicked
+2026-01-25T19:04:01+05:30 [info]: Candidate Name filled: Joseph
+2026-01-25T19:04:01+05:30 [info]: Search Button is clicked
+2026-01-25T19:04:02+05:30 [info]: Search Result is visible
+2026-01-25T19:04:02+05:30 [info]: Recruitment Tab is visible
+2026-01-25T19:04:03+05:30 [info]: Recruitment Tab is clicked
+2026-01-25T19:04:05+05:30 [info]: Add Button is clicked
+2026-01-25T19:04:06+05:30 [info]: First Name filled: Glenn
+2026-01-25T19:04:06+05:30 [info]: Last Name filled: Maddy
+2026-01-25T19:04:06+05:30 [info]: Vacancy dropdown clicked
+2026-01-25T19:04:06+05:30 [info]: Vacancy selected: Software Engineer
+2026-01-25T19:04:06+05:30 [info]: Email filled: glenn.maddy@example.com
+2026-01-25T19:04:06+05:30 [info]: Contact Number filled: 9123456780
+2026-01-25T19:04:06+05:30 [info]: Save Button is clicked
+2026-01-25T19:04:08+05:30 [info]: Recruitment Link is clicked
+2026-01-25T19:04:10+05:30 [info]: Candidate Name filled: Maddy
+2026-01-25T19:04:10+05:30 [info]: Search Button is clicked
+2026-01-25T19:04:11+05:30 [info]: Search Result is visible
+2026-01-25T19:04:11+05:30 [info]: *********HP*********
+2026-01-25T19:11:37+05:30 [info]: Navigated to login page
+2026-01-25T19:11:37+05:30 [info]: Filled username: Admin
+2026-01-25T19:11:37+05:30 [info]: Filled password: ********
+2026-01-25T19:11:38+05:30 [info]: Clicked login button
+2026-01-25T19:11:38+05:30 [info]: Performed quick login
+2026-01-25T19:11:40+05:30 [info]: Dashboard title is visible and correct
+2026-01-25T19:11:41+05:30 [info]: Recruitment Tab is visible
+2026-01-25T19:11:43+05:30 [info]: Recruitment Tab is clicked
+2026-01-25T19:11:46+05:30 [info]: Recruitment Link is clicked
+2026-01-25T19:11:48+05:30 [info]: Candidate Name filled: Joseph
+2026-01-25T19:11:48+05:30 [info]: Search Button is clicked
+2026-01-25T19:11:49+05:30 [info]: Search Result is visible
+2026-01-25T19:11:49+05:30 [info]: Recruitment Tab is visible
+2026-01-25T19:11:50+05:30 [info]: Recruitment Tab is clicked
+2026-01-25T19:11:53+05:30 [info]: Recruitment Link is clicked
+2026-01-25T19:11:56+05:30 [info]: Candidate Name filled: Maddy
+2026-01-25T19:11:56+05:30 [info]: Search Button is clicked
+2026-01-25T19:11:56+05:30 [info]: Search Result is visible
+2026-01-25T19:12:35+05:30 [info]: Navigated to login page
+2026-01-25T19:12:36+05:30 [info]: Filled username: Admin
+2026-01-25T19:12:36+05:30 [info]: Filled password: ********
+2026-01-25T19:12:36+05:30 [info]: Clicked login button
+2026-01-25T19:12:36+05:30 [info]: Performed quick login
+2026-01-25T19:12:38+05:30 [info]: Dashboard title is visible and correct
+2026-01-25T19:12:40+05:30 [info]: Recruitment Tab is visible
+2026-01-25T19:12:41+05:30 [info]: Recruitment Tab is clicked
+2026-01-25T19:12:44+05:30 [info]: Recruitment Link is clicked
+2026-01-25T19:12:46+05:30 [info]: Candidate Name filled: Joseph
+2026-01-25T19:12:46+05:30 [info]: Search Button is clicked
+2026-01-25T19:12:47+05:30 [info]: Search Result is visible
+2026-01-25T19:12:47+05:30 [info]: Recruitment Tab is visible
+2026-01-25T19:12:48+05:30 [info]: Recruitment Tab is clicked
+2026-01-25T19:12:51+05:30 [info]: Recruitment Link is clicked
+2026-01-25T19:12:53+05:30 [info]: Candidate Name filled: Maddy
+2026-01-25T19:12:53+05:30 [info]: Search Button is clicked
+2026-01-25T19:12:54+05:30 [info]: Search Result is visible
+2026-01-25T19:14:52+05:30 [info]: Navigated to login page
+2026-01-25T19:14:53+05:30 [info]: Filled username: Admin
+2026-01-25T19:14:53+05:30 [info]: Filled password: ********
+2026-01-25T19:14:55+05:30 [info]: Clicked login button
+2026-01-25T19:14:55+05:30 [info]: Performed quick login
+2026-01-25T19:14:56+05:30 [info]: Dashboard title is visible and correct
+2026-01-25T19:14:57+05:30 [info]: Recruitment Tab is visible
+2026-01-25T19:14:58+05:30 [info]: Recruitment Tab is clicked
+2026-01-25T19:15:00+05:30 [info]: Add Button is clicked
+2026-01-25T19:15:01+05:30 [info]: First Name filled: John
+2026-01-25T19:15:01+05:30 [info]: Last Name filled: Black
+2026-01-25T19:15:01+05:30 [info]: Vacancy dropdown clicked
+2026-01-25T19:15:02+05:30 [info]: Vacancy selected: Junior Account Assistant
+2026-01-25T19:15:02+05:30 [info]: Email filled: john.b@demo.com
+2026-01-25T19:15:02+05:30 [info]: Contact Number filled: 1234512345
+2026-01-25T19:15:02+05:30 [info]: Save Button is clicked
+2026-01-25T19:15:03+05:30 [info]: Recruitment Link is clicked
+2026-01-25T19:15:06+05:30 [info]: Candidate Name filled: Black
+2026-01-25T19:15:06+05:30 [info]: Search Button is clicked
+2026-01-25T19:15:07+05:30 [info]: Search Result is visible
+2026-01-25T19:15:07+05:30 [info]: Recruitment Tab is visible
+2026-01-25T19:15:10+05:30 [info]: Recruitment Tab is clicked
+2026-01-25T19:15:12+05:30 [info]: Add Button is clicked
+2026-01-25T19:15:12+05:30 [info]: First Name filled: Jane
+2026-01-25T19:15:12+05:30 [info]: Last Name filled: White
+2026-01-25T19:15:12+05:30 [info]: Vacancy dropdown clicked
+2026-01-25T19:15:13+05:30 [info]: Vacancy selected: Payroll Administrator
+2026-01-25T19:15:13+05:30 [info]: Email filled: jane.w@demo.com
+2026-01-25T19:15:13+05:30 [info]: Save Button is clicked
+2026-01-25T19:15:14+05:30 [info]: Recruitment Link is clicked
+2026-01-25T19:15:17+05:30 [info]: Candidate Name filled: White
+2026-01-25T19:15:17+05:30 [info]: Search Button is clicked
+2026-01-25T19:15:18+05:30 [info]: Search Result is visible
+2026-01-25T19:15:18+05:30 [info]: Recruitment Tab is visible
+2026-01-25T19:15:19+05:30 [info]: Recruitment Tab is clicked
+2026-01-25T19:15:22+05:30 [info]: Recruitment Link is clicked
+2026-01-25T19:15:24+05:30 [info]: Candidate Name filled: Joseph
+2026-01-25T19:15:24+05:30 [info]: Search Button is clicked
+2026-01-25T19:15:25+05:30 [info]: Search Result is visible
+2026-01-25T19:15:25+05:30 [info]: Recruitment Tab is visible
+2026-01-25T19:15:27+05:30 [info]: Recruitment Tab is clicked
+2026-01-25T19:15:29+05:30 [info]: Recruitment Link is clicked
+2026-01-25T19:15:32+05:30 [info]: Candidate Name filled: Maddy
+2026-01-25T19:15:32+05:30 [info]: Search Button is clicked
+2026-01-25T19:15:33+05:30 [info]: Search Result is visible
+2026-01-25T19:18:02+05:30 [info]: Navigated to login page
+2026-01-25T19:18:03+05:30 [info]: Filled username: Admin
+2026-01-25T19:18:03+05:30 [info]: Filled password: ********
+2026-01-25T19:18:04+05:30 [info]: Clicked login button
+2026-01-25T19:18:04+05:30 [info]: Performed quick login
+2026-01-25T19:18:06+05:30 [info]: Dashboard title is visible and correct
+2026-01-25T19:18:07+05:30 [info]: Recruitment Tab is visible
+2026-01-25T19:18:08+05:30 [info]: Recruitment Tab is clicked
+2026-01-25T19:18:10+05:30 [info]: Add Button is clicked
+2026-01-25T19:18:11+05:30 [info]: First Name filled: John
+2026-01-25T19:18:11+05:30 [info]: Last Name filled: Black
+2026-01-25T19:18:11+05:30 [info]: Vacancy dropdown clicked
+2026-01-25T19:18:12+05:30 [info]: Vacancy selected: Junior Account Assistant
+2026-01-25T19:18:12+05:30 [info]: Email filled: john.b@demo.com
+2026-01-25T19:18:12+05:30 [info]: Contact Number filled: 1234512345
+2026-01-25T19:18:12+05:30 [info]: Save Button is clicked
+2026-01-25T19:18:13+05:30 [info]: Recruitment Link is clicked
+2026-01-25T19:18:16+05:30 [info]: Candidate Name filled: Black
+2026-01-25T19:18:16+05:30 [info]: Search Button is clicked
+2026-01-25T19:18:16+05:30 [info]: Search Result is visible
+2026-01-25T19:18:17+05:30 [info]: Recruitment Tab is visible
+2026-01-25T19:18:18+05:30 [info]: Recruitment Tab is clicked
+2026-01-25T19:18:20+05:30 [info]: Add Button is clicked
+2026-01-25T19:18:20+05:30 [info]: First Name filled: Jane
+2026-01-25T19:18:20+05:30 [info]: Last Name filled: White
+2026-01-25T19:18:20+05:30 [info]: Vacancy dropdown clicked
+2026-01-25T19:18:21+05:30 [info]: Vacancy selected: Payroll Administrator
+2026-01-25T19:18:21+05:30 [info]: Email filled: jane.w@demo.com
+2026-01-25T19:18:21+05:30 [info]: Save Button is clicked
+2026-01-25T19:18:23+05:30 [info]: Recruitment Link is clicked
+2026-01-25T19:18:25+05:30 [info]: Candidate Name filled: White
+2026-01-25T19:18:25+05:30 [info]: Search Button is clicked
+2026-01-25T19:18:26+05:30 [info]: Search Result is visible
+2026-01-25T19:18:26+05:30 [info]: Recruitment Tab is visible
+2026-01-25T19:18:27+05:30 [info]: Recruitment Tab is clicked
+2026-01-25T19:18:29+05:30 [info]: Add Button is clicked
+2026-01-25T19:18:30+05:30 [info]: First Name filled: Glenn
+2026-01-25T19:18:30+05:30 [info]: Last Name filled: Joseph
+2026-01-25T19:18:30+05:30 [info]: Vacancy dropdown clicked
+2026-01-25T19:18:31+05:30 [info]: Vacancy selected: Senior QA Lead
+2026-01-25T19:18:31+05:30 [info]: Email filled: glenn.joseph@example.com
+2026-01-25T19:18:31+05:30 [info]: Contact Number filled: 1234567890
+2026-01-25T19:18:31+05:30 [info]: Save Button is clicked
+2026-01-25T19:18:32+05:30 [info]: Recruitment Link is clicked
+2026-01-25T19:18:35+05:30 [info]: Candidate Name filled: Joseph
+2026-01-25T19:18:35+05:30 [info]: Search Button is clicked
+2026-01-25T19:18:36+05:30 [info]: Search Result is visible
+2026-01-25T19:18:36+05:30 [info]: Recruitment Tab is visible
+2026-01-25T19:18:37+05:30 [info]: Recruitment Tab is clicked
+2026-01-25T19:18:40+05:30 [info]: Add Button is clicked
+2026-01-25T19:18:41+05:30 [info]: First Name filled: Glenn
+2026-01-25T19:18:41+05:30 [info]: Last Name filled: Maddy
+2026-01-25T19:18:41+05:30 [info]: Vacancy dropdown clicked
+2026-01-25T19:18:42+05:30 [info]: Vacancy selected: Software Engineer
+2026-01-25T19:18:42+05:30 [info]: Email filled: glenn.maddy@example.com
+2026-01-25T19:18:42+05:30 [info]: Contact Number filled: 9123456780
+2026-01-25T19:18:42+05:30 [info]: Save Button is clicked
+2026-01-25T19:18:45+05:30 [info]: Recruitment Link is clicked
+2026-01-25T19:18:49+05:30 [info]: Candidate Name filled: Maddy
+2026-01-25T19:18:49+05:30 [info]: Search Button is clicked
+2026-01-25T19:18:50+05:30 [info]: Search Result is visible

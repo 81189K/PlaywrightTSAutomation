@@ -1,0 +1,16 @@
+[
+  {
+    "firstname": "John",
+    "lastname": "Black",
+    "vacancy": "Junior Account Assistant",
+    "email": "john.b@demo.com",
+    "contactNo": "1234512345"
+  },
+  {
+    "firstname": "Jane",
+    "lastname": "White",
+    "vacancy": "Payroll Administrator",
+    "email": "jane.w@demo.com",
+    "contactNo": ""
+  }
+]
