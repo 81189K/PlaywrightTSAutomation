@@ -1,4 +1,5 @@
 import { Page } from "@playwright/test";
+import logger from "../utils/LoggerUtil";
 
 
 export class LoginPage {
@@ -10,22 +11,22 @@ export class LoginPage {
 
     async navigateToLoginPage() {
         await this.page.goto('auth/login');
-        console.log('Navigated to login page');
+        logger.info('Navigated to login page');
     }
 
     async fillUsername(username: string) {
         await this.page.locator(this.usernameInputSelector).fill(username);
-        console.log(`Filled username: ${username}`);
+        logger.info(`Filled username: ${username}`);
     }
 
     async fillPassword(password: string) {
         await this.page.locator(this.passwordInputSelector).fill(password);
-        console.log(`Filled password: ${'*'.repeat(password.length)}`);
+        logger.info(`Filled password: ${'*'.repeat(password.length)}`);
     }
     
     async clickLoginButton() {
         await this.page.locator(this.loginButtonSelector).click();
-        console.log('Clicked login button');
+        logger.info('Clicked login button');
     }
 
     async quickLogin(username: string, password: string) {
@@ -33,6 +34,6 @@ export class LoginPage {
         await this.fillUsername(username);
         await this.fillPassword(password);
         await this.clickLoginButton();
-        console.log('Performed quick login');
+        logger.info('Performed quick login');
     }
 }

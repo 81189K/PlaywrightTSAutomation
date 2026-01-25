@@ -1,0 +1,19 @@
+2026-01-25T14:03:57+05:30 [info]: Navigated to login page
+2026-01-25T14:03:57+05:30 [info]: Filled username: Admin
+2026-01-25T14:03:57+05:30 [info]: Filled password: ********
+2026-01-25T14:03:58+05:30 [info]: Clicked login button
+2026-01-25T14:04:00+05:30 [info]: Dashboard title is visible and correct
+2026-01-25T14:05:06+05:30 [info]: Navigated to login page
+2026-01-25T14:05:07+05:30 [info]: Filled username: Admin
+2026-01-25T14:05:07+05:30 [info]: Filled password: ********
+2026-01-25T14:05:08+05:30 [info]: Clicked login button
+2026-01-25T14:05:10+05:30 [info]: Dashboard title is visible and correct
+2026-01-25T14:19:37+05:30 [info]: Filled username: Admin
+2026-01-25T14:19:37+05:30 [warn]: Filled password: ********
+2026-01-25T14:19:37+05:30 [error]: Clicked login button
+2026-01-25T14:19:45+05:30 [info]: Dashboard title is visible and correct
+2026-01-25T14:21:04+05:30 [info]: Navigated to login page
+2026-01-25T14:21:05+05:30 [info]: Filled username: Admin
+2026-01-25T14:21:05+05:30 [info]: Filled password: ********
+2026-01-25T14:21:05+05:30 [info]: Clicked login button
+2026-01-25T14:21:08+05:30 [info]: Dashboard title is visible and correct
