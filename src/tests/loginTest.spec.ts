@@ -22,7 +22,7 @@ test.describe('Login Page Tests', () => {
     await dashboardPage.expectDashboardTitleToBeVisible();
   });
 
-  test('Valid Login Test', async ({page}) => {
+  test('Valid Login Test', async ({page}, testInfo) => {
     await loginPage.fillUsername(process.env.username!); // ! is called the Non-Null Assertion Operator. It tells TypeScript that even though something looks like it could be null, it can trust you that it won't be
     await loginPage.fillPassword(process.env.password!);
     await loginPage.clickLoginButton();
@@ -30,6 +30,15 @@ test.describe('Login Page Tests', () => {
 
     const dashboardPage: DashboardPage = new DashboardPage(page);
     await dashboardPage.expectDashboardTitleToBeVisible();
+    // await page.screenshot({ path: 'screenshots/ValidLoginTest.png' });
+    const timestamp = new Date().toISOString().replace(/[:.]/g, '-');
+    const projectName = testInfo.project.name.replace(/\s+/g, '_');
+
+    await page.screenshot({
+      path: `screenshots/login_${projectName}_${timestamp}.png`,
+      // fullPage: true,
+    });
+
   });
 
 });

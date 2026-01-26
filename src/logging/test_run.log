@@ -535,3 +535,33 @@
 2026-01-26T18:24:55+05:30 [info]: Candidate Name filled: Lebsack
 2026-01-26T18:24:55+05:30 [info]: Search Button is clicked
 2026-01-26T18:24:55+05:30 [info]: Search Result is visible
+2026-01-26T18:43:37+05:30 [info]: Navigated to login page
+2026-01-26T18:43:38+05:30 [info]: Navigated to login page
+2026-01-26T18:43:38+05:30 [info]: Navigated to login page
+2026-01-26T18:43:39+05:30 [info]: Navigated to login page
+2026-01-26T18:43:39+05:30 [info]: Filled username: Admin
+2026-01-26T18:43:39+05:30 [info]: Filled password: ********
+2026-01-26T18:43:39+05:30 [info]: Navigated to login page
+2026-01-26T18:43:39+05:30 [info]: Clicked login button
+2026-01-26T18:43:39+05:30 [info]: Filled username: Admin
+2026-01-26T18:43:39+05:30 [info]: Filled password: ********
+2026-01-26T18:43:39+05:30 [info]: Filled username: Admin
+2026-01-26T18:43:39+05:30 [info]: Filled password: ********
+2026-01-26T18:43:40+05:30 [info]: Filled username: Admin
+2026-01-26T18:43:40+05:30 [info]: Filled password: ********
+2026-01-26T18:43:40+05:30 [info]: Clicked login button
+2026-01-26T18:43:40+05:30 [info]: Filled username: Admin
+2026-01-26T18:43:40+05:30 [info]: Filled password: ********
+2026-01-26T18:43:42+05:30 [info]: Clicked login button
+2026-01-26T18:43:42+05:30 [info]: Dashboard title is visible and correct
+2026-01-26T18:43:42+05:30 [info]: Clicked login button
+2026-01-26T18:43:43+05:30 [info]: Dashboard title is visible and correct
+2026-01-26T18:43:43+05:30 [info]: Clicked login button
+2026-01-26T18:43:43+05:30 [info]: Dashboard title is visible and correct
+2026-01-26T18:43:43+05:30 [info]: Dashboard title is visible and correct
+2026-01-26T18:43:44+05:30 [info]: Dashboard title is visible and correct
+2026-01-26T18:43:50+05:30 [info]: Navigated to login page
+2026-01-26T18:43:51+05:30 [info]: Filled username: Admin
+2026-01-26T18:43:51+05:30 [info]: Filled password: ********
+2026-01-26T18:43:52+05:30 [info]: Clicked login button
+2026-01-26T18:43:54+05:30 [info]: Dashboard title is visible and correct
