@@ -15,9 +15,9 @@ export interface RecruitmentData {
 }
 
 const DESIGNATIONS = [
-    "Software Engineer",
+    // "Software Engineer",
     "Junior Account Assistant",
-    "Payroll Administrator",
+    // "Payroll Administrator",
     "Senior QA Lead"
 ];
 
