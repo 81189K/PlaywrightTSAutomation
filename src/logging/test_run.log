@@ -515,3 +515,23 @@
 2026-01-25T19:18:49+05:30 [info]: Candidate Name filled: Maddy
 2026-01-25T19:18:49+05:30 [info]: Search Button is clicked
 2026-01-25T19:18:50+05:30 [info]: Search Result is visible
+2026-01-26T18:24:39+05:30 [info]: Navigated to login page
+2026-01-26T18:24:40+05:30 [info]: Filled username: Admin
+2026-01-26T18:24:40+05:30 [info]: Filled password: ********
+2026-01-26T18:24:40+05:30 [info]: Clicked login button
+2026-01-26T18:24:40+05:30 [info]: Performed quick login
+2026-01-26T18:24:42+05:30 [info]: Dashboard title is visible and correct
+2026-01-26T18:24:42+05:30 [info]: Recruitment Tab is visible
+2026-01-26T18:24:44+05:30 [info]: Recruitment Tab is clicked
+2026-01-26T18:24:47+05:30 [info]: Add Button is clicked
+2026-01-26T18:24:48+05:30 [info]: First Name filled: Neva
+2026-01-26T18:24:48+05:30 [info]: Last Name filled: Lebsack
+2026-01-26T18:24:48+05:30 [info]: Vacancy dropdown clicked
+2026-01-26T18:24:49+05:30 [info]: Vacancy selected: Software Engineer
+2026-01-26T18:24:49+05:30 [info]: Email filled: Dejuan_Carter98@gmail.com
+2026-01-26T18:24:49+05:30 [info]: Contact Number filled: 7724357669
+2026-01-26T18:24:49+05:30 [info]: Save Button is clicked
+2026-01-26T18:24:51+05:30 [info]: Recruitment Link is clicked
+2026-01-26T18:24:55+05:30 [info]: Candidate Name filled: Lebsack
+2026-01-26T18:24:55+05:30 [info]: Search Button is clicked
+2026-01-26T18:24:55+05:30 [info]: Search Result is visible

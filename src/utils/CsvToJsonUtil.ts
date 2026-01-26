@@ -22,8 +22,8 @@ import path from 'path';
 type CsvRow = Record<string, string>;
 
 function parseCsvToJson(csvData: string, delimiter: string = ','): CsvRow[] {
-  // Split CSV into lines
-  const lines = csvData.split('\n');
+  // Split CSV into lines. ref:https://chatgpt.com/s/t_697761023d348191b8551f1b66185a24
+  const lines = csvData.split('\n').map(line => line.trim()).filter(line => line.length > 0);
 
   // Extract header row (column names)
   const headers = lines[0].split(delimiter).map(h => h.trim());
