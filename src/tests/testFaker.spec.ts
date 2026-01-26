@@ -2,18 +2,14 @@ import { test, Page } from "@playwright/test";
 import { LoginPage } from "../pages/LoginPage";
 import { RecruitmentPage } from "../pages/RecruitmentPage";
 import { DashboardPage } from "../pages/DashboardPage";
-import { generateRecruitmentDataArray, exportRecruitmentDataToJsonFile, exportRecruitmentDataToCsvFile, RecruitmentData } from "../utils/FakerDataUtil";
+import { generateRecruitmentDataArray, exportRecruitmentDataToCsvFile, RecruitmentData } from "../utils/FakerDataUtil";
 import { convertCsvFileToJsonFile } from "../utils/CsvToJsonUtil";
 import fs from "fs";
 import path from "path";
 
 test('Recruitment Faker testData test', async ({ browser }) => {
 
-    // Shared state
-    let page: Page;
-    let dashboardPage: DashboardPage;
-
-    page = await browser.newPage();
+    const page: Page = await browser.newPage();
     await page.setViewportSize({ width: 1920, height: 1080 });
 
     // test data directory path
@@ -43,7 +39,7 @@ test('Recruitment Faker testData test', async ({ browser }) => {
     const loginPage = new LoginPage(page);
     await loginPage.quickLogin(process.env.username!, process.env.password!);
     // dashboard
-    dashboardPage = new DashboardPage(page);
+    const dashboardPage: DashboardPage = new DashboardPage(page);
     await dashboardPage.expectDashboardTitleToBeVisible();
 
     for (const data of recruitmentFromCSVData) {

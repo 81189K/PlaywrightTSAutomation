@@ -1,8 +1,8 @@
 import {test} from "@playwright/test";
 import {LoginPage} from "../pages/LoginPage";
 import { DashboardPage } from "../pages/DashboardPage";
-import { encryptData, decryptData } from "../utils/CryptojsUtil";
-import { encryptEnvFile, decryptEnvFile } from "../utils/EncryptEnvFile";
+import { decryptData } from "../utils/CryptojsUtil";
+import { encryptEnvFile } from "../utils/EncryptEnvFile";
 
 test.describe('Login Page Tests', () => {
   let loginPage: LoginPage;
@@ -43,7 +43,7 @@ test.describe('Login Page Tests', () => {
 
 });
 
-test.skip('test', async ({ page }) => {
+test.skip('test', async () => {
     // console.log('SALT Value:', process.env.SALT);
     // const plainText = 'Hello, Playwright!';
     // const encryptedText = encryptData(plainText);

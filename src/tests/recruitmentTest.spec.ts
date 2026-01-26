@@ -1,3 +1,4 @@
+/* eslint-disable @typescript-eslint/no-explicit-any */
 import { test, Page } from "@playwright/test";
 import { LoginPage } from "../pages/LoginPage";
 import { RecruitmentPage } from "../pages/RecruitmentPage";

@@ -2,7 +2,8 @@
     // npm install crypto-js
     // npm install -D @types/crypto-js
 // You can download it from: https://cryptojs.gitbook.io/docs/
-let CryptoJSUtil = require("crypto-js");
+// eslint-disable-next-line @typescript-eslint/no-require-imports
+const CryptoJSUtil = require("crypto-js");
 
 // Get the SALT value from environment variables or use a default value
 const SALT = process.env.SALT || "defaultSalt";
