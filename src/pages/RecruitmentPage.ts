@@ -44,6 +44,7 @@ export class RecruitmentPage {
 
         await this.vacancyDropdownSelector.click();
         logger.info("Vacancy dropdown clicked");
+        await this.page.waitForTimeout(1000); // Wait for options to load
 
         const vacancyOptionLocator = this.getOptionLocator(vacancy);
         await vacancyOptionLocator.click();

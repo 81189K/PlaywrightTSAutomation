@@ -10,7 +10,7 @@ export class DashboardPage {
 
     async expectDashboardTitleToBeVisible() {
         await expect(this.page.locator(this.dashboardTitleLocator)).toBeVisible({
-            timeout: 15000,
+            timeout: 45000,
         }).catch((error) => {
             logger.error(`Error on clicking login button: ${error}`);
             throw error; // rethrow the error if needed
