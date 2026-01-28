@@ -565,3 +565,19 @@
 2026-01-26T18:43:51+05:30 [info]: Filled password: ********
 2026-01-26T18:43:52+05:30 [info]: Clicked login button
 2026-01-26T18:43:54+05:30 [info]: Dashboard title is visible and correct
+2026-01-28T22:49:01+05:30 [info]: Navigated to login page
+2026-01-28T22:49:11+05:30 [info]: Filled username: Admin
+2026-01-28T22:49:20+05:30 [info]: Navigated to login page
+2026-01-28T22:49:22+05:30 [info]: Filled username: Admin
+2026-01-28T22:49:31+05:30 [info]: Navigated to login page
+2026-01-28T22:49:34+05:30 [info]: Filled username: Admin
+2026-01-28T22:50:37+05:30 [info]: Navigated to login page
+2026-01-28T22:50:38+05:30 [info]: Filled username: Admin
+2026-01-28T22:50:38+05:30 [info]: Filled password: ********
+2026-01-28T22:50:38+05:30 [info]: Clicked login button
+2026-01-28T22:50:38+05:30 [info]: Performed quick login
+2026-01-28T22:50:42+05:30 [info]: Dashboard title is visible and correct
+2026-01-28T22:50:42+05:30 [info]: Login successful, Dashboard title is visible.
+2026-01-28T22:50:42+05:30 [info]: Auth Storage state saved to src/config/loginStorageState.json
+2026-01-28T23:01:38+05:30 [info]: Recruitment title is visible and correct
+2026-01-28T23:01:38+05:30 [info]: Login using storage state successful, Recruitment title is visible.

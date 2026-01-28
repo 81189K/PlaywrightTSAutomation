@@ -12,6 +12,7 @@ export class RecruitmentPage {
     private readonly lastNameInputSelector: Locator;
     private readonly vacancyDropdownSelector: Locator;
     private readonly saveBtnSelector: Locator;
+    private readonly recruitmentTitleSelector: Locator;
 
     constructor(private page: Page) {
         this.recruitmentLinkSelector = this.page.locator('a:has-text("Recruitment")');
@@ -22,6 +23,16 @@ export class RecruitmentPage {
         this.lastNameInputSelector = this.page.getByPlaceholder('Last Name');
         this.vacancyDropdownSelector = this.page.locator('.oxd-select-text-input');
         this.saveBtnSelector = this.page.getByRole('button', { name: 'Save' });
+        this.recruitmentTitleSelector = this.page.locator('h6.oxd-text--h6.oxd-topbar-header-breadcrumb-module');
+    }
+
+    async expectRecruitmentTitleToBeVisible() {
+        await expect(this.recruitmentTitleSelector).toBeVisible({
+            timeout: 45000,
+        }).catch((error) => {
+            logger.error(`Error on Recruitment page: ${error}`);
+            throw error; // rethrow the error if needed
+        }).then(() => logger.info("Recruitment title is visible and correct"));
     }
 
     getOptionLocator(optionPartialText: string): Locator {
