@@ -565,6 +565,7 @@
 2026-01-26T18:43:51+05:30 [info]: Filled password: ********
 2026-01-26T18:43:52+05:30 [info]: Clicked login button
 2026-01-26T18:43:54+05:30 [info]: Dashboard title is visible and correct
+2026-01-28T23:48:02+05:30 [info]: ******************Skip login using Storage State******************
 2026-01-28T22:49:01+05:30 [info]: Navigated to login page
 2026-01-28T22:49:11+05:30 [info]: Filled username: Admin
 2026-01-28T22:49:20+05:30 [info]: Navigated to login page
@@ -581,3 +582,25 @@
 2026-01-28T22:50:42+05:30 [info]: Auth Storage state saved to src/config/loginStorageState.json
 2026-01-28T23:01:38+05:30 [info]: Recruitment title is visible and correct
 2026-01-28T23:01:38+05:30 [info]: Login using storage state successful, Recruitment title is visible.
+2026-01-28T23:48:02+05:30 [info]: ******************Serial Mode Execution******************
+2026-01-28T23:56:47+05:30 [info]: Navigated to login page
+2026-01-28T23:56:47+05:30 [info]: Filled username: Admin
+2026-01-28T23:56:47+05:30 [info]: Filled password: ********
+2026-01-28T23:56:48+05:30 [info]: Clicked login button
+2026-01-28T23:56:48+05:30 [info]: Performed quick login
+2026-01-28T23:56:48+05:30 [info]: Login successful
+2026-01-28T23:56:50+05:30 [info]: Dashboard title is visible and correct
+2026-01-28T23:56:50+05:30 [info]: Recruitment Tab is visible
+2026-01-28T23:56:52+05:30 [info]: Recruitment Tab is clicked
+2026-01-28T23:56:54+05:30 [info]: Add Button is clicked
+2026-01-28T23:56:55+05:30 [info]: First Name filled: Miles
+2026-01-28T23:56:55+05:30 [info]: Last Name filled: Gottlieb
+2026-01-28T23:56:55+05:30 [info]: Vacancy dropdown clicked
+2026-01-28T23:56:56+05:30 [info]: Vacancy selected: Junior Account Assistant
+2026-01-28T23:56:56+05:30 [info]: Email filled: Drake9@yahoo.com
+2026-01-28T23:56:56+05:30 [info]: Contact Number filled: 6565043683
+2026-01-28T23:56:56+05:30 [info]: Save Button is clicked
+2026-01-28T23:56:57+05:30 [info]: Recruitment Link is clicked
+2026-01-28T23:57:00+05:30 [info]: Candidate Name filled: Gottlieb
+2026-01-28T23:57:00+05:30 [info]: Search Button is clicked
+2026-01-28T23:57:01+05:30 [info]: Search Result is visible
