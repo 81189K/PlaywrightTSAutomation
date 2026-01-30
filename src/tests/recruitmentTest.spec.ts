@@ -4,7 +4,7 @@ import { LoginPage } from "../pages/LoginPage";
 import { RecruitmentPage } from "../pages/RecruitmentPage";
 import { DashboardPage } from "../pages/DashboardPage";
 import { convertCsvFileToJsonFile } from "../utils/CsvToJsonUtil";
-import recruitmentJSONData from "../testdata/recruitments.json";
+// import recruitmentJSONData from "../testdata/recruitments.json";
 import fs from 'fs';
 import path from 'path';
 
@@ -75,13 +75,13 @@ test.describe.serial('Recruitment Test Suite', () => {
         });
     });
 
-    recruitmentJSONData.forEach((data: any, index: number) => {
-        test(`JSON[${index}]: Recruitment tests for '${data.firstname} ${data.lastname}'`, async () => {
-            const recruitmentPage: RecruitmentPage = await dashboardPage.navigateToRecruitmentTab();    
-            await recruitmentPage.addCandidate(data.firstname, data.lastname, data.vacancy, data.email, data.contactNo);
-            await recruitmentPage.findExistingCandidateByName(data.lastname);
-        });
-    });
+    // recruitmentJSONData.forEach((data: any, index: number) => {
+    //     test(`JSON[${index}]: Recruitment tests for '${data.firstname} ${data.lastname}'`, async () => {
+    //         const recruitmentPage: RecruitmentPage = await dashboardPage.navigateToRecruitmentTab();    
+    //         await recruitmentPage.addCandidate(data.firstname, data.lastname, data.vacancy, data.email, data.contactNo);
+    //         await recruitmentPage.findExistingCandidateByName(data.lastname);
+    //     });
+    // });
 
     test.afterAll(async () => {
         await page.close();

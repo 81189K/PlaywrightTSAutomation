@@ -8,6 +8,7 @@ export class RecruitmentPage {
     private readonly searchBtnSelector: Locator;
     private readonly searchResultTextSelector = "//span[text()='(1) Record Found']";
     private readonly addbtnSelector: Locator;
+    private readonly addCandidateHeadingSelector: Locator;
     private readonly firstNameInputSelector: Locator;
     private readonly lastNameInputSelector: Locator;
     private readonly vacancyDropdownSelector: Locator;
@@ -19,6 +20,7 @@ export class RecruitmentPage {
         this.candidateNameInputSelector = this.page.getByLabel('Candidate Name');
         this.searchBtnSelector = this.page.getByRole('button', { name: 'Search' });
         this.addbtnSelector = this.page.getByRole('button', { name: 'Add' });
+        this.addCandidateHeadingSelector = this.page.getByRole('heading', { name: 'Add Candidate' });
         this.firstNameInputSelector = this.page.getByPlaceholder('First Name');
         this.lastNameInputSelector = this.page.getByPlaceholder('Last Name');
         this.vacancyDropdownSelector = this.page.locator('.oxd-select-text-input');
@@ -36,7 +38,8 @@ export class RecruitmentPage {
     }
 
     getOptionLocator(optionPartialText: string): Locator {
-        return this.page.locator('div[role="option"]', { hasText: optionPartialText }).first();
+        // return this.page.locator('div[role="option"]', { hasText: optionPartialText }).first();
+        return this.page.getByRole('option').filter({ hasText: optionPartialText }).first();
     }
 
     getInputByLabel(label: string) {
@@ -45,6 +48,7 @@ export class RecruitmentPage {
 
     async addCandidate(fname: string, lname: string, vacancy: string, email: string, contactNo?: string) {
         await this.addbtnSelector.click();
+        await expect(this.addCandidateHeadingSelector).toBeVisible();
         logger.info("Add Button is clicked");
 
         await this.firstNameInputSelector.fill(fname);

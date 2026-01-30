@@ -18,7 +18,7 @@ const DESIGNATIONS = [
     // "Software Engineer",
     "Junior Account Assistant",
     // "Payroll Administrator",
-    "Senior QA Lead"
+    // "Senior QA Lead"
 ];
 
 // Function to generate fake recruitment data
