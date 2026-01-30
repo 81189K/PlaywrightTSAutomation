@@ -8,6 +8,17 @@ export class DashboardPage {
 
     constructor(private page: Page) {}
 
+    async waitForLoad() {
+        await this.page.getByRole('heading', { name: /^dashboard$/i }).waitFor(); // /^dashboard$/i: javascript regex for case insensitive match
+        logger.info("Dashboard page loaded successfully");
+    }
+
+    async validateDashboardTitle() {
+        const dashboardText = await this.page.getByRole('heading', { level: 6 }).textContent();
+        expect(dashboardText?.trim()).toBe('Dashboard');
+        logger.info("Dashboard title validated successfully");
+    }
+
     async expectDashboardTitleToBeVisible() {
         await expect(this.page.locator(this.dashboardTitleLocator)).toBeVisible({
             timeout: 45000,

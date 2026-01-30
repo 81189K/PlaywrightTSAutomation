@@ -604,3 +604,11 @@
 2026-01-28T23:57:00+05:30 [info]: Candidate Name filled: Gottlieb
 2026-01-28T23:57:00+05:30 [info]: Search Button is clicked
 2026-01-28T23:57:01+05:30 [info]: Search Result is visible
+2026-01-30T22:57:34+05:30 [info]: Navigated to login page
+2026-01-30T22:57:35+05:30 [info]: Filled username: Admin
+2026-01-30T22:57:35+05:30 [info]: Filled password: ********
+2026-01-30T22:57:35+05:30 [info]: Clicked login button
+2026-01-30T22:57:35+05:30 [info]: Performed quick login
+2026-01-30T22:57:37+05:30 [info]: Dashboard page loaded successfully
+2026-01-30T22:57:37+05:30 [info]: Dashboard title validated successfully
+2026-01-30T22:57:37+05:30 [info]: Successfully tested custom fixture
