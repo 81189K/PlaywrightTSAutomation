@@ -612,3 +612,30 @@
 2026-01-30T22:57:37+05:30 [info]: Dashboard page loaded successfully
 2026-01-30T22:57:37+05:30 [info]: Dashboard title validated successfully
 2026-01-30T22:57:37+05:30 [info]: Successfully tested custom fixture
+2026-02-01T23:08:27+05:30 [info]: {
+  "count": 880552,
+  "name": "johnson",
+  "country": [
+    {
+      "country_id": "US",
+      "probability": 0.3041847971748919
+    },
+    {
+      "country_id": "JM",
+      "probability": 0.0914349090316131
+    },
+    {
+      "country_id": "GB",
+      "probability": 0.037436490888596685
+    },
+    {
+      "country_id": "AU",
+      "probability": 0.028975770577688745
+    },
+    {
+      "country_id": "NG",
+      "probability": 0.02797238836047705
+    }
+  ]
+}
+2026-02-01T23:08:27+05:30 [info]: Successfully validated API response
