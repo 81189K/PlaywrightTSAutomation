@@ -639,3 +639,517 @@
   ]
 }
 2026-02-01T23:08:27+05:30 [info]: Successfully validated API response
+2026-02-02T21:55:02+05:30 [info]: Requested URL: https://opensource-demo.orangehrmlive.com/
+2026-02-02T21:55:02+05:30 [info]: Requested method: GET
+2026-02-02T21:55:02+05:30 [info]: Requested headers: {
+  "accept-language": "en-US",
+  "upgrade-insecure-requests": "1",
+  "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.7632.6 Safari/537.36",
+  "sec-ch-ua": "\"Chromium\";v=\"145\", \"Not:A-Brand\";v=\"99\"",
+  "sec-ch-ua-mobile": "?0",
+  "sec-ch-ua-platform": "\"Windows\""
+}
+2026-02-02T21:55:04+05:30 [info]: Response status: 302
+2026-02-02T21:55:04+05:30 [info]: Requested URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2026-02-02T21:55:04+05:30 [info]: Requested method: GET
+2026-02-02T21:55:04+05:30 [info]: Requested headers: {
+  "accept-language": "en-US",
+  "upgrade-insecure-requests": "1",
+  "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.7632.6 Safari/537.36",
+  "sec-ch-ua": "\"Chromium\";v=\"145\", \"Not:A-Brand\";v=\"99\"",
+  "sec-ch-ua-mobile": "?0",
+  "sec-ch-ua-platform": "\"Windows\""
+}
+2026-02-02T21:55:04+05:30 [info]: Response status: 200
+2026-02-02T21:55:04+05:30 [info]: Requested URL: https://opensource-demo.orangehrmlive.com/web/dist/css/chunk-vendors.css?v=1763650546848
+2026-02-02T21:55:04+05:30 [info]: Requested method: GET
+2026-02-02T21:55:04+05:30 [info]: Requested headers: {
+  "sec-ch-ua-platform": "\"Windows\"",
+  "referer": "https://opensource-demo.orangehrmlive.com/web/index.php/auth/login",
+  "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.7632.6 Safari/537.36",
+  "sec-ch-ua": "\"Chromium\";v=\"145\", \"Not:A-Brand\";v=\"99\"",
+  "accept-language": "en-US",
+  "sec-ch-ua-mobile": "?0"
+}
+2026-02-02T21:55:04+05:30 [info]: Requested URL: https://opensource-demo.orangehrmlive.com/web/dist/css/app.css?v=1763650546848
+2026-02-02T21:55:04+05:30 [info]: Requested method: GET
+2026-02-02T21:55:04+05:30 [info]: Requested headers: {
+  "sec-ch-ua-platform": "\"Windows\"",
+  "referer": "https://opensource-demo.orangehrmlive.com/web/index.php/auth/login",
+  "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.7632.6 Safari/537.36",
+  "sec-ch-ua": "\"Chromium\";v=\"145\", \"Not:A-Brand\";v=\"99\"",
+  "accept-language": "en-US",
+  "sec-ch-ua-mobile": "?0"
+}
+2026-02-02T21:55:04+05:30 [info]: Requested URL: https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?v=1763650546848
+2026-02-02T21:55:04+05:30 [info]: Requested method: GET
+2026-02-02T21:55:04+05:30 [info]: Requested headers: {
+  "sec-ch-ua-platform": "\"Windows\"",
+  "referer": "https://opensource-demo.orangehrmlive.com/web/index.php/auth/login",
+  "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.7632.6 Safari/537.36",
+  "sec-ch-ua": "\"Chromium\";v=\"145\", \"Not:A-Brand\";v=\"99\"",
+  "accept-language": "en-US",
+  "sec-ch-ua-mobile": "?0"
+}
+2026-02-02T21:55:04+05:30 [info]: Requested URL: https://opensource-demo.orangehrmlive.com/web/dist/js/app.js?v=1763650546848
+2026-02-02T21:55:04+05:30 [info]: Requested method: GET
+2026-02-02T21:55:04+05:30 [info]: Requested headers: {
+  "sec-ch-ua-platform": "\"Windows\"",
+  "referer": "https://opensource-demo.orangehrmlive.com/web/index.php/auth/login",
+  "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.7632.6 Safari/537.36",
+  "sec-ch-ua": "\"Chromium\";v=\"145\", \"Not:A-Brand\";v=\"99\"",
+  "accept-language": "en-US",
+  "sec-ch-ua-mobile": "?0"
+}
+2026-02-02T21:55:05+05:30 [info]: Response status: 200
+2026-02-02T21:55:05+05:30 [info]: Response status: 200
+2026-02-02T21:55:08+05:30 [info]: Response status: 200
+2026-02-02T21:55:08+05:30 [info]: Response status: 200
+2026-02-02T21:55:08+05:30 [info]: Requested URL: https://opensource-demo.orangehrmlive.com/web/index.php/core/i18n/messages
+2026-02-02T21:55:08+05:30 [info]: Requested method: GET
+2026-02-02T21:55:08+05:30 [info]: Requested headers: {
+  "sec-ch-ua-platform": "\"Windows\"",
+  "referer": "https://opensource-demo.orangehrmlive.com/web/index.php/auth/login",
+  "accept-language": "en-US",
+  "sec-ch-ua": "\"Chromium\";v=\"145\", \"Not:A-Brand\";v=\"99\"",
+  "sec-ch-ua-mobile": "?0",
+  "contenttype": "application/json",
+  "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.7632.6 Safari/537.36",
+  "accept": "application/json"
+}
+2026-02-02T21:55:08+05:30 [info]: Requested URL: https://opensource-demo.orangehrmlive.com/web/dist/favicon.ico?v=1763650546848
+2026-02-02T21:55:08+05:30 [info]: Requested method: GET
+2026-02-02T21:55:08+05:30 [info]: Requested headers: {
+  "sec-ch-ua-platform": "\"Windows\"",
+  "referer": "https://opensource-demo.orangehrmlive.com/web/index.php/auth/login",
+  "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.7632.6 Safari/537.36",
+  "sec-ch-ua": "\"Chromium\";v=\"145\", \"Not:A-Brand\";v=\"99\"",
+  "accept-language": "en-US",
+  "sec-ch-ua-mobile": "?0"
+}
+2026-02-02T21:58:37+05:30 [info]: Modified Request headers is {
+  "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+  "accept-language": "en-US",
+  "upgrade-insecure-requests": "1",
+  "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.7632.6 Safari/537.36",
+  "sec-ch-ua": "\"Chromium\";v=\"145\", \"Not:A-Brand\";v=\"99\"",
+  "sec-ch-ua-mobile": "?0",
+  "sec-ch-ua-platform": "\"Windows\""
+}
+         Modified Request type is GET
+2026-02-02T21:58:39+05:30 [info]: Modified Request headers is {
+  "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+  "accept-language": "en-US",
+  "upgrade-insecure-requests": "1",
+  "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.7632.6 Safari/537.36",
+  "x-custom-header": "integration-check",
+  "sec-ch-ua": "\"Chromium\";v=\"145\", \"Not:A-Brand\";v=\"99\"",
+  "sec-ch-ua-mobile": "?0",
+  "sec-ch-ua-platform": "\"Windows\""
+}
+         Modified Request type is GET
+2026-02-02T21:58:42+05:30 [info]: Modified Request headers is {
+  "accept": "text/css,*/*;q=0.1",
+  "accept-language": "en-US",
+  "cookie": "orangehrm=v38d480ttidgmvot6qj8b4jcd0",
+  "referer": "https://opensource-demo.orangehrmlive.com/web/index.php/auth/login",
+  "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.7632.6 Safari/537.36",
+  "sec-ch-ua": "\"Chromium\";v=\"145\", \"Not:A-Brand\";v=\"99\"",
+  "sec-ch-ua-mobile": "?0",
+  "sec-ch-ua-platform": "\"Windows\""
+}
+         Modified Request type is GET
+2026-02-02T21:58:42+05:30 [info]: Modified Request headers is {
+  "accept": "text/css,*/*;q=0.1",
+  "accept-language": "en-US",
+  "cookie": "orangehrm=v38d480ttidgmvot6qj8b4jcd0",
+  "referer": "https://opensource-demo.orangehrmlive.com/web/index.php/auth/login",
+  "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.7632.6 Safari/537.36",
+  "sec-ch-ua": "\"Chromium\";v=\"145\", \"Not:A-Brand\";v=\"99\"",
+  "sec-ch-ua-mobile": "?0",
+  "sec-ch-ua-platform": "\"Windows\""
+}
+         Modified Request type is GET
+2026-02-02T21:58:42+05:30 [info]: Modified Request headers is {
+  "accept": "*/*",
+  "accept-language": "en-US",
+  "cookie": "orangehrm=v38d480ttidgmvot6qj8b4jcd0",
+  "referer": "https://opensource-demo.orangehrmlive.com/web/index.php/auth/login",
+  "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.7632.6 Safari/537.36",
+  "sec-ch-ua": "\"Chromium\";v=\"145\", \"Not:A-Brand\";v=\"99\"",
+  "sec-ch-ua-mobile": "?0",
+  "sec-ch-ua-platform": "\"Windows\""
+}
+         Modified Request type is GET
+2026-02-02T21:58:42+05:30 [info]: Modified Request headers is {
+  "accept": "*/*",
+  "accept-language": "en-US",
+  "cookie": "orangehrm=v38d480ttidgmvot6qj8b4jcd0",
+  "referer": "https://opensource-demo.orangehrmlive.com/web/index.php/auth/login",
+  "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.7632.6 Safari/537.36",
+  "sec-ch-ua": "\"Chromium\";v=\"145\", \"Not:A-Brand\";v=\"99\"",
+  "sec-ch-ua-mobile": "?0",
+  "sec-ch-ua-platform": "\"Windows\""
+}
+         Modified Request type is GET
+2026-02-02T21:58:46+05:30 [info]: Modified Request headers is {
+  "accept": "application/json",
+  "accept-language": "en-US",
+  "cookie": "orangehrm=v38d480ttidgmvot6qj8b4jcd0",
+  "referer": "https://opensource-demo.orangehrmlive.com/web/index.php/auth/login",
+  "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.7632.6 Safari/537.36",
+  "contenttype": "application/json",
+  "sec-ch-ua": "\"Chromium\";v=\"145\", \"Not:A-Brand\";v=\"99\"",
+  "sec-ch-ua-mobile": "?0",
+  "sec-ch-ua-platform": "\"Windows\""
+}
+         Modified Request type is GET
+2026-02-02T21:58:46+05:30 [info]: Modified Request headers is {
+  "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+  "accept-language": "en-US",
+  "cookie": "orangehrm=v38d480ttidgmvot6qj8b4jcd0",
+  "referer": "https://opensource-demo.orangehrmlive.com/web/index.php/auth/login",
+  "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.7632.6 Safari/537.36",
+  "sec-ch-ua": "\"Chromium\";v=\"145\", \"Not:A-Brand\";v=\"99\"",
+  "sec-ch-ua-mobile": "?0",
+  "sec-ch-ua-platform": "\"Windows\""
+}
+         Modified Request type is GET
+2026-02-02T21:58:48+05:30 [info]: Modified Request headers is {
+  "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+  "accept-language": "en-US",
+  "cookie": "orangehrm=v38d480ttidgmvot6qj8b4jcd0",
+  "referer": "https://opensource-demo.orangehrmlive.com/web/index.php/auth/login",
+  "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.7632.6 Safari/537.36",
+  "sec-ch-ua": "\"Chromium\";v=\"145\", \"Not:A-Brand\";v=\"99\"",
+  "sec-ch-ua-mobile": "?0",
+  "sec-ch-ua-platform": "\"Windows\""
+}
+         Modified Request type is GET
+2026-02-02T21:58:48+05:30 [info]: Modified Request headers is {
+  "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+  "accept-language": "en-US",
+  "cookie": "orangehrm=v38d480ttidgmvot6qj8b4jcd0",
+  "referer": "https://opensource-demo.orangehrmlive.com/web/index.php/auth/login",
+  "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.7632.6 Safari/537.36",
+  "sec-ch-ua": "\"Chromium\";v=\"145\", \"Not:A-Brand\";v=\"99\"",
+  "sec-ch-ua-mobile": "?0",
+  "sec-ch-ua-platform": "\"Windows\""
+}
+         Modified Request type is GET
+2026-02-02T21:58:48+05:30 [info]: Modified Request headers is {
+  "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+  "accept-language": "en-US",
+  "cookie": "orangehrm=v38d480ttidgmvot6qj8b4jcd0",
+  "referer": "https://opensource-demo.orangehrmlive.com/web/dist/css/app.css?v=1763650546848",
+  "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.7632.6 Safari/537.36",
+  "sec-ch-ua": "\"Chromium\";v=\"145\", \"Not:A-Brand\";v=\"99\"",
+  "sec-ch-ua-mobile": "?0",
+  "sec-ch-ua-platform": "\"Windows\""
+}
+         Modified Request type is GET
+2026-02-02T21:58:48+05:30 [info]: Modified Request headers is {
+  "accept": "*/*",
+  "accept-language": "en-US",
+  "cookie": "orangehrm=v38d480ttidgmvot6qj8b4jcd0",
+  "origin": "https://opensource-demo.orangehrmlive.com",
+  "referer": "https://opensource-demo.orangehrmlive.com/web/dist/css/chunk-vendors.css?v=1763650546848",
+  "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.7632.6 Safari/537.36",
+  "sec-ch-ua": "\"Chromium\";v=\"145\", \"Not:A-Brand\";v=\"99\"",
+  "sec-ch-ua-mobile": "?0",
+  "sec-ch-ua-platform": "\"Windows\""
+}
+         Modified Request type is GET
+2026-02-02T21:58:48+05:30 [info]: Modified Request headers is {
+  "accept": "*/*",
+  "accept-language": "en-US",
+  "cookie": "orangehrm=v38d480ttidgmvot6qj8b4jcd0",
+  "origin": "https://opensource-demo.orangehrmlive.com",
+  "referer": "https://opensource-demo.orangehrmlive.com/web/dist/css/chunk-vendors.css?v=1763650546848",
+  "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.7632.6 Safari/537.36",
+  "sec-ch-ua": "\"Chromium\";v=\"145\", \"Not:A-Brand\";v=\"99\"",
+  "sec-ch-ua-mobile": "?0",
+  "sec-ch-ua-platform": "\"Windows\""
+}
+         Modified Request type is GET
+2026-02-02T21:58:48+05:30 [info]: Modified Request headers is {
+  "accept": "*/*",
+  "accept-language": "en-US",
+  "cookie": "orangehrm=v38d480ttidgmvot6qj8b4jcd0",
+  "origin": "https://opensource-demo.orangehrmlive.com",
+  "referer": "https://opensource-demo.orangehrmlive.com/web/dist/css/chunk-vendors.css?v=1763650546848",
+  "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.7632.6 Safari/537.36",
+  "sec-ch-ua": "\"Chromium\";v=\"145\", \"Not:A-Brand\";v=\"99\"",
+  "sec-ch-ua-mobile": "?0",
+  "sec-ch-ua-platform": "\"Windows\""
+}
+         Modified Request type is GET
+2026-02-02T21:58:48+05:30 [info]: Modified Request headers is {
+  "accept": "*/*",
+  "accept-language": "en-US",
+  "cookie": "orangehrm=v38d480ttidgmvot6qj8b4jcd0",
+  "origin": "https://opensource-demo.orangehrmlive.com",
+  "referer": "https://opensource-demo.orangehrmlive.com/web/dist/css/chunk-vendors.css?v=1763650546848",
+  "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.7632.6 Safari/537.36",
+  "sec-ch-ua": "\"Chromium\";v=\"145\", \"Not:A-Brand\";v=\"99\"",
+  "sec-ch-ua-mobile": "?0",
+  "sec-ch-ua-platform": "\"Windows\""
+}
+         Modified Request type is GET
+2026-02-03T07:50:42+05:30 [info]: Modified Request headers is {
+  "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+  "accept-language": "en-US",
+  "upgrade-insecure-requests": "1",
+  "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.7632.6 Safari/537.36",
+  "sec-ch-ua": "\"Chromium\";v=\"145\", \"Not:A-Brand\";v=\"99\"",
+  "sec-ch-ua-mobile": "?0",
+  "sec-ch-ua-platform": "\"Windows\""
+}
+         Modified Request type is GET
+2026-02-03T07:50:42+05:30 [info]: Requested URL: https://opensource-demo.orangehrmlive.com/
+2026-02-03T07:50:42+05:30 [info]: Requested method: GET
+2026-02-03T07:50:42+05:30 [info]: Requested headers: {
+  "accept-language": "en-US",
+  "upgrade-insecure-requests": "1",
+  "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.7632.6 Safari/537.36",
+  "sec-ch-ua": "\"Chromium\";v=\"145\", \"Not:A-Brand\";v=\"99\"",
+  "sec-ch-ua-mobile": "?0",
+  "sec-ch-ua-platform": "\"Windows\""
+}
+2026-02-03T07:50:44+05:30 [info]: Response status: 302
+2026-02-03T07:50:44+05:30 [info]: Modified Request headers is {
+  "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+  "accept-language": "en-US",
+  "upgrade-insecure-requests": "1",
+  "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.7632.6 Safari/537.36",
+  "x-custom-header": "integration-check",
+  "sec-ch-ua": "\"Chromium\";v=\"145\", \"Not:A-Brand\";v=\"99\"",
+  "sec-ch-ua-mobile": "?0",
+  "sec-ch-ua-platform": "\"Windows\""
+}
+         Modified Request type is GET
+2026-02-03T07:50:44+05:30 [info]: Requested URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2026-02-03T07:50:44+05:30 [info]: Requested method: GET
+2026-02-03T07:50:44+05:30 [info]: Requested headers: {
+  "accept-language": "en-US",
+  "upgrade-insecure-requests": "1",
+  "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.7632.6 Safari/537.36",
+  "sec-ch-ua": "\"Chromium\";v=\"145\", \"Not:A-Brand\";v=\"99\"",
+  "sec-ch-ua-mobile": "?0",
+  "sec-ch-ua-platform": "\"Windows\""
+}
+2026-02-03T07:50:44+05:30 [info]: Response status: 200
+2026-02-03T07:50:44+05:30 [info]: Requested URL: https://opensource-demo.orangehrmlive.com/web/dist/css/chunk-vendors.css?v=1763650546848
+2026-02-03T07:50:44+05:30 [info]: Requested method: GET
+2026-02-03T07:50:44+05:30 [info]: Requested headers: {
+  "sec-ch-ua-platform": "\"Windows\"",
+  "referer": "https://opensource-demo.orangehrmlive.com/web/index.php/auth/login",
+  "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.7632.6 Safari/537.36",
+  "sec-ch-ua": "\"Chromium\";v=\"145\", \"Not:A-Brand\";v=\"99\"",
+  "accept-language": "en-US",
+  "sec-ch-ua-mobile": "?0"
+}
+2026-02-03T07:50:44+05:30 [info]: Requested URL: https://opensource-demo.orangehrmlive.com/web/dist/css/app.css?v=1763650546848
+2026-02-03T07:50:44+05:30 [info]: Requested method: GET
+2026-02-03T07:50:44+05:30 [info]: Requested headers: {
+  "sec-ch-ua-platform": "\"Windows\"",
+  "referer": "https://opensource-demo.orangehrmlive.com/web/index.php/auth/login",
+  "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.7632.6 Safari/537.36",
+  "sec-ch-ua": "\"Chromium\";v=\"145\", \"Not:A-Brand\";v=\"99\"",
+  "accept-language": "en-US",
+  "sec-ch-ua-mobile": "?0"
+}
+2026-02-03T07:50:44+05:30 [info]: Requested URL: https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?v=1763650546848
+2026-02-03T07:50:44+05:30 [info]: Requested method: GET
+2026-02-03T07:50:44+05:30 [info]: Requested headers: {
+  "sec-ch-ua-platform": "\"Windows\"",
+  "referer": "https://opensource-demo.orangehrmlive.com/web/index.php/auth/login",
+  "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.7632.6 Safari/537.36",
+  "sec-ch-ua": "\"Chromium\";v=\"145\", \"Not:A-Brand\";v=\"99\"",
+  "accept-language": "en-US",
+  "sec-ch-ua-mobile": "?0"
+}
+2026-02-03T07:50:44+05:30 [info]: Requested URL: https://opensource-demo.orangehrmlive.com/web/dist/js/app.js?v=1763650546848
+2026-02-03T07:50:44+05:30 [info]: Requested method: GET
+2026-02-03T07:50:44+05:30 [info]: Requested headers: {
+  "sec-ch-ua-platform": "\"Windows\"",
+  "referer": "https://opensource-demo.orangehrmlive.com/web/index.php/auth/login",
+  "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.7632.6 Safari/537.36",
+  "sec-ch-ua": "\"Chromium\";v=\"145\", \"Not:A-Brand\";v=\"99\"",
+  "accept-language": "en-US",
+  "sec-ch-ua-mobile": "?0"
+}
+2026-02-03T07:50:44+05:30 [info]: Modified Request headers is {
+  "accept": "text/css,*/*;q=0.1",
+  "accept-language": "en-US",
+  "cookie": "orangehrm=1goutgq9qgqsv3f6j8vetdioc2",
+  "referer": "https://opensource-demo.orangehrmlive.com/web/index.php/auth/login",
+  "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.7632.6 Safari/537.36",
+  "sec-ch-ua": "\"Chromium\";v=\"145\", \"Not:A-Brand\";v=\"99\"",
+  "sec-ch-ua-mobile": "?0",
+  "sec-ch-ua-platform": "\"Windows\""
+}
+         Modified Request type is GET
+2026-02-03T07:50:44+05:30 [info]: Modified Request headers is {
+  "accept": "text/css,*/*;q=0.1",
+  "accept-language": "en-US",
+  "cookie": "orangehrm=1goutgq9qgqsv3f6j8vetdioc2",
+  "referer": "https://opensource-demo.orangehrmlive.com/web/index.php/auth/login",
+  "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.7632.6 Safari/537.36",
+  "sec-ch-ua": "\"Chromium\";v=\"145\", \"Not:A-Brand\";v=\"99\"",
+  "sec-ch-ua-mobile": "?0",
+  "sec-ch-ua-platform": "\"Windows\""
+}
+         Modified Request type is GET
+2026-02-03T07:50:44+05:30 [info]: Modified Request headers is {
+  "accept": "*/*",
+  "accept-language": "en-US",
+  "cookie": "orangehrm=1goutgq9qgqsv3f6j8vetdioc2",
+  "referer": "https://opensource-demo.orangehrmlive.com/web/index.php/auth/login",
+  "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.7632.6 Safari/537.36",
+  "sec-ch-ua": "\"Chromium\";v=\"145\", \"Not:A-Brand\";v=\"99\"",
+  "sec-ch-ua-mobile": "?0",
+  "sec-ch-ua-platform": "\"Windows\""
+}
+         Modified Request type is GET
+2026-02-03T07:50:44+05:30 [info]: Modified Request headers is {
+  "accept": "*/*",
+  "accept-language": "en-US",
+  "cookie": "orangehrm=1goutgq9qgqsv3f6j8vetdioc2",
+  "referer": "https://opensource-demo.orangehrmlive.com/web/index.php/auth/login",
+  "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.7632.6 Safari/537.36",
+  "sec-ch-ua": "\"Chromium\";v=\"145\", \"Not:A-Brand\";v=\"99\"",
+  "sec-ch-ua-mobile": "?0",
+  "sec-ch-ua-platform": "\"Windows\""
+}
+         Modified Request type is GET
+2026-02-03T07:50:45+05:30 [info]: Response status: 200
+2026-02-03T07:50:46+05:30 [info]: Response status: 200
+2026-02-03T07:50:48+05:30 [info]: Response status: 200
+2026-02-03T07:50:49+05:30 [info]: Modified Request headers is {
+  "accept": "application/json",
+  "accept-language": "en-US",
+  "cookie": "orangehrm=1goutgq9qgqsv3f6j8vetdioc2",
+  "referer": "https://opensource-demo.orangehrmlive.com/web/index.php/auth/login",
+  "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.7632.6 Safari/537.36",
+  "contenttype": "application/json",
+  "sec-ch-ua": "\"Chromium\";v=\"145\", \"Not:A-Brand\";v=\"99\"",
+  "sec-ch-ua-mobile": "?0",
+  "sec-ch-ua-platform": "\"Windows\""
+}
+         Modified Request type is GET
+2026-02-03T07:50:49+05:30 [info]: Modified Request headers is {
+  "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+  "accept-language": "en-US",
+  "cookie": "orangehrm=1goutgq9qgqsv3f6j8vetdioc2",
+  "referer": "https://opensource-demo.orangehrmlive.com/web/index.php/auth/login",
+  "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.7632.6 Safari/537.36",
+  "sec-ch-ua": "\"Chromium\";v=\"145\", \"Not:A-Brand\";v=\"99\"",
+  "sec-ch-ua-mobile": "?0",
+  "sec-ch-ua-platform": "\"Windows\""
+}
+         Modified Request type is GET
+2026-02-03T07:50:49+05:30 [info]: Response status: 200
+2026-02-03T07:50:49+05:30 [info]: Requested URL: https://opensource-demo.orangehrmlive.com/web/index.php/core/i18n/messages
+2026-02-03T07:50:49+05:30 [info]: Requested method: GET
+2026-02-03T07:50:49+05:30 [info]: Requested headers: {
+  "sec-ch-ua-platform": "\"Windows\"",
+  "referer": "https://opensource-demo.orangehrmlive.com/web/index.php/auth/login",
+  "accept-language": "en-US",
+  "sec-ch-ua": "\"Chromium\";v=\"145\", \"Not:A-Brand\";v=\"99\"",
+  "sec-ch-ua-mobile": "?0",
+  "contenttype": "application/json",
+  "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.7632.6 Safari/537.36",
+  "accept": "application/json"
+}
+2026-02-03T07:50:49+05:30 [info]: Requested URL: https://opensource-demo.orangehrmlive.com/web/dist/favicon.ico?v=1763650546848
+2026-02-03T07:50:49+05:30 [info]: Requested method: GET
+2026-02-03T07:50:49+05:30 [info]: Requested headers: {
+  "sec-ch-ua-platform": "\"Windows\"",
+  "referer": "https://opensource-demo.orangehrmlive.com/web/index.php/auth/login",
+  "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.7632.6 Safari/537.36",
+  "sec-ch-ua": "\"Chromium\";v=\"145\", \"Not:A-Brand\";v=\"99\"",
+  "accept-language": "en-US",
+  "sec-ch-ua-mobile": "?0"
+}
+2026-02-03T07:50:49+05:30 [info]: Modified Request headers is {
+  "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+  "accept-language": "en-US",
+  "cookie": "orangehrm=1goutgq9qgqsv3f6j8vetdioc2",
+  "referer": "https://opensource-demo.orangehrmlive.com/web/index.php/auth/login",
+  "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.7632.6 Safari/537.36",
+  "sec-ch-ua": "\"Chromium\";v=\"145\", \"Not:A-Brand\";v=\"99\"",
+  "sec-ch-ua-mobile": "?0",
+  "sec-ch-ua-platform": "\"Windows\""
+}
+         Modified Request type is GET
+2026-02-03T07:50:49+05:30 [info]: Modified Request headers is {
+  "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+  "accept-language": "en-US",
+  "cookie": "orangehrm=1goutgq9qgqsv3f6j8vetdioc2",
+  "referer": "https://opensource-demo.orangehrmlive.com/web/index.php/auth/login",
+  "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.7632.6 Safari/537.36",
+  "sec-ch-ua": "\"Chromium\";v=\"145\", \"Not:A-Brand\";v=\"99\"",
+  "sec-ch-ua-mobile": "?0",
+  "sec-ch-ua-platform": "\"Windows\""
+}
+         Modified Request type is GET
+2026-02-03T07:50:49+05:30 [info]: Modified Request headers is {
+  "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+  "accept-language": "en-US",
+  "cookie": "orangehrm=1goutgq9qgqsv3f6j8vetdioc2",
+  "referer": "https://opensource-demo.orangehrmlive.com/web/dist/css/app.css?v=1763650546848",
+  "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.7632.6 Safari/537.36",
+  "sec-ch-ua": "\"Chromium\";v=\"145\", \"Not:A-Brand\";v=\"99\"",
+  "sec-ch-ua-mobile": "?0",
+  "sec-ch-ua-platform": "\"Windows\""
+}
+         Modified Request type is GET
+2026-02-03T07:50:49+05:30 [info]: Modified Request headers is {
+  "accept": "*/*",
+  "accept-language": "en-US",
+  "cookie": "orangehrm=1goutgq9qgqsv3f6j8vetdioc2",
+  "origin": "https://opensource-demo.orangehrmlive.com",
+  "referer": "https://opensource-demo.orangehrmlive.com/web/dist/css/chunk-vendors.css?v=1763650546848",
+  "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.7632.6 Safari/537.36",
+  "sec-ch-ua": "\"Chromium\";v=\"145\", \"Not:A-Brand\";v=\"99\"",
+  "sec-ch-ua-mobile": "?0",
+  "sec-ch-ua-platform": "\"Windows\""
+}
+         Modified Request type is GET
+2026-02-03T07:50:49+05:30 [info]: Modified Request headers is {
+  "accept": "*/*",
+  "accept-language": "en-US",
+  "cookie": "orangehrm=1goutgq9qgqsv3f6j8vetdioc2",
+  "origin": "https://opensource-demo.orangehrmlive.com",
+  "referer": "https://opensource-demo.orangehrmlive.com/web/dist/css/chunk-vendors.css?v=1763650546848",
+  "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.7632.6 Safari/537.36",
+  "sec-ch-ua": "\"Chromium\";v=\"145\", \"Not:A-Brand\";v=\"99\"",
+  "sec-ch-ua-mobile": "?0",
+  "sec-ch-ua-platform": "\"Windows\""
+}
+         Modified Request type is GET
+2026-02-03T07:50:49+05:30 [info]: Modified Request headers is {
+  "accept": "*/*",
+  "accept-language": "en-US",
+  "cookie": "orangehrm=1goutgq9qgqsv3f6j8vetdioc2",
+  "origin": "https://opensource-demo.orangehrmlive.com",
+  "referer": "https://opensource-demo.orangehrmlive.com/web/dist/css/chunk-vendors.css?v=1763650546848",
+  "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.7632.6 Safari/537.36",
+  "sec-ch-ua": "\"Chromium\";v=\"145\", \"Not:A-Brand\";v=\"99\"",
+  "sec-ch-ua-mobile": "?0",
+  "sec-ch-ua-platform": "\"Windows\""
+}
+         Modified Request type is GET
+2026-02-03T07:50:49+05:30 [info]: Modified Request headers is {
+  "accept": "*/*",
+  "accept-language": "en-US",
+  "cookie": "orangehrm=1goutgq9qgqsv3f6j8vetdioc2",
+  "origin": "https://opensource-demo.orangehrmlive.com",
+  "referer": "https://opensource-demo.orangehrmlive.com/web/dist/css/chunk-vendors.css?v=1763650546848",
+  "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.7632.6 Safari/537.36",
+  "sec-ch-ua": "\"Chromium\";v=\"145\", \"Not:A-Brand\";v=\"99\"",
+  "sec-ch-ua-mobile": "?0",
+  "sec-ch-ua-platform": "\"Windows\""
+}
+         Modified Request type is GET
