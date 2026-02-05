@@ -39,22 +39,14 @@ flowchart TD
 
 ## Sections
 
-1. [Environment Configuration & Runner Setup
-](01_environment_configuration___runner_setup_.md)
-2. [Cryptographic Utilities
-](02_cryptographic_utilities_.md)
-3. [UI Page Objects (POM)
-](03_ui_page_objects__pom__.md)
-4. [Dynamic Test Data Generation
-](04_dynamic_test_data_generation_.md)
-5. [Data Format Utility (CSV/JSON Conversion)
-](05_data_format_utility__csv_json_conversion__.md)
-6. [Auth State Persistence
-](06_auth_state_persistence_.md)
-7. [Custom Playwright Fixtures
-](07_custom_playwright_fixtures_.md)
-8. [Centralized Logging Utility
-](08_centralized_logging_utility_.md)
+1. [Environment Configuration & Runner Setup](#environment-configuration--runner-setup)
+2. [Cryptographic Utilities](#cryptographic-utilities)
+3. [UI Page Objects (POM)](#ui-page-objects-pom)
+4. [Dynamic Test Data Generation](#dynamic-test-data-generation)
+5. [Data Format Utility (CSV/JSON Conversion)](#data-format-utility-csvjson-conversion)
+6. [Auth State Persistence](#auth-state-persistence)
+7. [Custom Playwright Fixtures](#custom-playwright-fixtures)
+8. [Centralized Logging Utility](#centralized-logging-utility)
 
 ---
 
