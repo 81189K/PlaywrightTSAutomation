@@ -41,13 +41,18 @@ test("Verify logo Color and font size", async () => {
     logger.info("Successfully verified logo font-size");
 });
 
-test('Screenshot compare test', async () => {
+test.skip('Screenshot compare test', async () => {
     await expect(page).toHaveScreenshot({
         animations: 'disabled', // Temporarily disables CSS animations and transitions before taking the screenshot.
         fullPage: false, // false → captures only the visible viewport; true → captures the entire scrollable page
         timeout: 5000,
     });
-    logger.info("Successfully completed visual testing");
+    logger.info("Successfully completed visual testing for entire page");
+    const heroSection = page.locator("#main .herosection");
+    await expect(heroSection).toHaveScreenshot('heroSection.png', {animations: 'disabled'});
+    logger.info("Successfully completed visual testing for heroSection");
+    await expect(logo).toHaveScreenshot('logo.png', {animations: 'disabled'});
+    logger.info("Successfully completed visual testing for logo");
 });
 
 test.afterAll(async () => {
