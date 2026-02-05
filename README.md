@@ -311,14 +311,6 @@ This project is licensed under the ISC License.
 - **Issues**: Open an issue on GitHub for bugs or feature requests
 - **Discussions**: Use GitHub Discussions for questions and ideas
 
-## 🗺️ Roadmap
-
-- [ ] Add more browser configurations
-- [ ] Expand API testing capabilities
-- [ ] Add Docker support
-- [ ] Enhance visual regression testing
-- [ ] Add performance testing utilities
-- [ ] Improve test data management tools
 
 ## 📚 Additional Resources
 
